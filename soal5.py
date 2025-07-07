@@ -1,0 +1,2 @@
+# 5.Deteksi Anomali pada Budget Kampanye
+# Identifikasi produk dengan campaign_budget yang secara signifikan lebih tinggi/rendah dibanding produk lain dengan tingkat sales (asumsi: tambahkan kolom monthly_sales). Apakah ada outlier, dan bagaimana performanya?

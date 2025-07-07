@@ -1,0 +1,5001 @@
+product_id,campaign_budget,channels
+1,344195,"Online, Social Media"
+2,227333,TV
+3,70014,"Social Media, Outdoor, TV"
+4,242500,"Online, TV, Radio"
+5,309137,"Radio, Print, Online"
+6,184567,"Print, Radio"
+7,477003,Print
+8,301119,"TV, Online, Outdoor"
+9,217161,TV
+10,380759,"Print, Social Media"
+11,203414,"Social Media, TV"
+12,61118,"TV, Print"
+13,53717,"TV, Social Media"
+14,185886,"Outdoor, Print, TV"
+15,120193,"Radio, Print, Online"
+16,208608,"Print, Outdoor, Social Media"
+17,396347,Social Media
+18,189073,"Radio, Online, Outdoor"
+19,301841,"Print, Radio, Outdoor"
+20,463841,"Social Media, Print"
+21,364232,"Outdoor, Social Media, TV"
+22,302791,"Radio, Social Media, Outdoor"
+23,440175,"Outdoor, TV, Social Media"
+24,198790,"Social Media, Outdoor"
+25,139030,"Outdoor, Radio"
+26,386226,"Radio, TV"
+27,76457,"Radio, Social Media"
+28,240882,"Social Media, Outdoor, TV"
+29,179184,"Print, Radio, Social Media"
+30,487096,"Print, Radio, Social Media"
+31,219693,Print
+32,348543,Outdoor
+33,170818,"Social Media, Print"
+34,492428,"TV, Social Media"
+35,131176,"TV, Online"
+36,458016,TV
+37,250417,"Print, Outdoor"
+38,242274,"Outdoor, Radio"
+39,365584,"Outdoor, Social Media"
+40,91993,TV
+41,296012,Outdoor
+42,148987,"TV, Outdoor"
+43,120705,"Radio, TV"
+44,444864,"Outdoor, Radio"
+45,498779,"TV, Print, Social Media"
+46,487039,Social Media
+47,419523,"Online, Print, Outdoor"
+48,463987,"Outdoor, Print, Social Media"
+49,465896,"Print, TV"
+50,129363,"Social Media, Radio"
+51,88564,"Online, Print, Outdoor"
+52,107054,"Outdoor, Online"
+53,123172,Radio
+54,420101,Outdoor
+55,473574,"TV, Print, Outdoor"
+56,208327,"Social Media, TV"
+57,65464,"TV, Radio"
+58,188366,Print
+59,367762,Online
+60,474307,"Social Media, Radio"
+61,252362,"Print, TV, Outdoor"
+62,201230,Print
+63,343951,"Outdoor, TV"
+64,145007,"Online, TV"
+65,394616,"Outdoor, Social Media"
+66,236315,Print
+67,489772,"Outdoor, Radio"
+68,470353,"Radio, Social Media"
+69,349416,"TV, Print"
+70,341592,Social Media
+71,105418,"TV, Online, Radio"
+72,176425,"Print, Online, Outdoor"
+73,437868,TV
+74,213343,"Print, TV"
+75,240857,Radio
+76,427920,"Outdoor, Radio"
+77,242117,"Outdoor, TV"
+78,432505,"Radio, Print"
+79,81243,"TV, Print"
+80,360984,"Online, Radio"
+81,78354,Online
+82,405506,Print
+83,298498,"Radio, Social Media, Online"
+84,300143,"Online, Outdoor"
+85,219510,Print
+86,456501,Outdoor
+87,279093,"Print, TV"
+88,167197,"Online, TV"
+89,420858,"Outdoor, Social Media"
+90,476660,"Outdoor, TV"
+91,159031,Online
+92,322369,"Social Media, Online, Outdoor"
+93,314857,"Online, TV, Outdoor"
+94,324329,Online
+95,303905,Radio
+96,95080,"Radio, Print, TV"
+97,235619,"Online, Outdoor, Print"
+98,493572,"Online, Social Media"
+99,89692,Radio
+100,351336,Radio
+101,452435,"Online, Social Media"
+102,140296,"Radio, Social Media, Online"
+103,411089,Print
+104,158799,"TV, Online"
+105,63671,Social Media
+106,284509,Social Media
+107,369893,"Radio, Print"
+108,138623,"TV, Print, Social Media"
+109,81693,"Print, Radio"
+110,299056,"Outdoor, TV, Social Media"
+111,116475,Radio
+112,132942,"TV, Online"
+113,366555,Social Media
+114,325448,TV
+115,476138,"TV, Outdoor"
+116,195537,Outdoor
+117,146476,"Print, Online"
+118,345083,Online
+119,487399,"Radio, TV, Print"
+120,299066,Print
+121,182217,"Print, Social Media, Outdoor"
+122,459711,"Print, Social Media, Online"
+123,324678,"Outdoor, Online"
+124,145728,"Outdoor, Print, Online"
+125,477327,Outdoor
+126,172855,"Print, Radio, TV"
+127,454318,Social Media
+128,326564,Online
+129,276191,"Print, Outdoor"
+130,199655,"Radio, Print"
+131,103483,Online
+132,160166,"Online, TV"
+133,198954,Radio
+134,179932,Online
+135,82997,Print
+136,310902,"Print, TV"
+137,263831,"TV, Social Media"
+138,97908,"TV, Online, Print"
+139,258734,Radio
+140,85534,"TV, Print, Online"
+141,469188,TV
+142,166585,"Social Media, Online"
+143,376171,"TV, Social Media, Radio"
+144,163062,"Print, Social Media"
+145,263531,"Social Media, Outdoor"
+146,469970,Online
+147,442259,"Online, Radio, Print"
+148,400496,Print
+149,405586,"TV, Print"
+150,420558,"TV, Print, Social Media"
+151,384186,Radio
+152,453585,"Online, Social Media"
+153,207606,TV
+154,286757,"Online, Social Media, Outdoor"
+155,340886,Outdoor
+156,139008,"Print, Radio, Online"
+157,276468,TV
+158,105836,Online
+159,325238,"Online, TV, Outdoor"
+160,93930,"Social Media, Radio"
+161,276509,"TV, Print, Social Media"
+162,257741,Social Media
+163,100306,"Social Media, Radio"
+164,247701,Outdoor
+165,355013,"Print, Radio, Outdoor"
+166,317621,"Print, Outdoor, Radio"
+167,256121,Outdoor
+168,214225,"Social Media, Print"
+169,75825,"Print, Radio, Social Media"
+170,480154,"TV, Outdoor, Social Media"
+171,231218,Outdoor
+172,237415,"Online, Outdoor"
+173,107754,Print
+174,289701,Radio
+175,490649,"Print, Radio"
+176,163861,"Social Media, Radio, Print"
+177,191001,"Online, Print, Outdoor"
+178,156297,"Radio, Online, Print"
+179,439964,"TV, Print"
+180,263844,"Print, Outdoor"
+181,420586,"Outdoor, Online"
+182,432539,Online
+183,387090,"Print, Radio, Outdoor"
+184,167470,Online
+185,65869,"Outdoor, Print, Radio"
+186,114480,"TV, Radio"
+187,363627,"Online, Radio, Print"
+188,383248,Print
+189,394870,Online
+190,159786,Online
+191,118866,Outdoor
+192,465378,"Outdoor, Social Media, Print"
+193,348895,Outdoor
+194,383883,"Social Media, Radio"
+195,92257,"Online, TV, Outdoor"
+196,235606,Radio
+197,78489,"Print, Outdoor, Online"
+198,345988,"Social Media, Print"
+199,270211,"Outdoor, TV"
+200,253159,"Outdoor, Social Media, TV"
+201,456308,"Online, TV"
+202,383053,"Radio, Social Media"
+203,483914,"Print, Radio"
+204,70821,"TV, Outdoor, Social Media"
+205,327055,Outdoor
+206,333598,Outdoor
+207,61944,Print
+208,404186,Outdoor
+209,119127,"Print, Online, Radio"
+210,365572,"Radio, TV"
+211,67021,Social Media
+212,326159,Print
+213,284351,"Online, Radio"
+214,267475,"Radio, TV, Outdoor"
+215,214999,Print
+216,239107,"Radio, Outdoor, Print"
+217,264602,Online
+218,183960,"Radio, TV, Print"
+219,470880,"Outdoor, Online"
+220,484251,"Print, Social Media, TV"
+221,184956,"Outdoor, Radio, TV"
+222,400411,Social Media
+223,388228,TV
+224,444012,Online
+225,51731,TV
+226,202153,"Online, Social Media"
+227,115245,Online
+228,225886,"Print, Online, Social Media"
+229,309033,"Print, Radio"
+230,458982,"TV, Print, Online"
+231,427826,"Print, Social Media"
+232,274560,Radio
+233,60576,"TV, Print, Online"
+234,185402,"Outdoor, Social Media, TV"
+235,97975,"TV, Print"
+236,342785,"Radio, Print"
+237,362943,"Radio, Print, Online"
+238,341961,"Print, Online"
+239,173623,Outdoor
+240,463779,"Radio, Social Media"
+241,314828,"TV, Online, Radio"
+242,318762,Print
+243,417001,"Outdoor, TV, Social Media"
+244,81160,"TV, Social Media, Outdoor"
+245,144324,"Online, TV"
+246,315312,"Social Media, Online, Radio"
+247,324695,"Print, TV"
+248,260044,"Social Media, TV"
+249,400972,"Online, Print, TV"
+250,205531,"Outdoor, TV"
+251,55055,"Print, Social Media"
+252,202982,"Print, Radio"
+253,484646,Radio
+254,400566,"Outdoor, Social Media"
+255,193213,Radio
+256,150102,Print
+257,414621,"Outdoor, Radio"
+258,139954,"Print, Radio, TV"
+259,311089,"Online, Print"
+260,278582,"Online, Radio, Print"
+261,240201,TV
+262,241683,"TV, Outdoor, Social Media"
+263,366062,"TV, Online"
+264,96277,"Social Media, Radio"
+265,227852,"Online, Outdoor"
+266,485772,"Social Media, Online"
+267,400172,"TV, Print"
+268,59465,"Online, Radio, Print"
+269,251175,"Outdoor, Social Media, Print"
+270,102737,Print
+271,268121,"Online, Outdoor, TV"
+272,96612,"TV, Social Media, Online"
+273,225146,"Outdoor, Print"
+274,295248,Social Media
+275,215289,"Online, Print, TV"
+276,310359,"TV, Print"
+277,493272,"Online, Outdoor, Radio"
+278,160604,"Print, Radio"
+279,304029,"Print, Outdoor"
+280,262096,Outdoor
+281,414169,"Outdoor, Radio, Social Media"
+282,191697,"Print, Social Media, Outdoor"
+283,337106,"Social Media, TV, Online"
+284,361831,"Online, Radio"
+285,489047,"Social Media, TV, Print"
+286,118069,"Social Media, Print, Radio"
+287,499231,Print
+288,374544,Online
+289,255352,TV
+290,168603,"Online, TV, Print"
+291,332916,"Outdoor, Print"
+292,113807,Radio
+293,476050,Social Media
+294,132991,"TV, Print"
+295,398437,"Outdoor, Online"
+296,205316,Social Media
+297,147131,"Online, TV"
+298,413899,Social Media
+299,449527,TV
+300,52530,"Print, Online, TV"
+301,488368,"Radio, Online"
+302,239864,Outdoor
+303,93234,"TV, Social Media"
+304,253960,Social Media
+305,103356,Radio
+306,166452,Outdoor
+307,300880,"Online, Radio, TV"
+308,211639,"Print, Social Media"
+309,152530,"Social Media, TV, Outdoor"
+310,138417,"Online, Outdoor"
+311,336465,"Online, Print"
+312,459360,Radio
+313,75391,"Online, Radio"
+314,159901,"Online, Print, Outdoor"
+315,349434,"Social Media, Print"
+316,494307,"Online, Print, Outdoor"
+317,356607,"Social Media, Radio, Print"
+318,73681,Outdoor
+319,130489,"Outdoor, Social Media, TV"
+320,206450,"Outdoor, Online, TV"
+321,120831,"Online, Social Media"
+322,132024,Radio
+323,173144,"Radio, Print"
+324,217749,Social Media
+325,226330,"Radio, Outdoor"
+326,274720,"Social Media, Print, TV"
+327,467706,"Outdoor, TV"
+328,497007,"Radio, Online"
+329,58871,Outdoor
+330,272196,TV
+331,388436,Online
+332,82983,TV
+333,473535,TV
+334,471970,"Online, Print, Radio"
+335,143777,Print
+336,403585,"Print, Radio"
+337,311660,TV
+338,65255,"Radio, Social Media"
+339,183786,"Social Media, Online"
+340,168519,"Outdoor, Print"
+341,445873,Print
+342,453875,Online
+343,65510,Outdoor
+344,383635,Print
+345,103934,TV
+346,405916,Outdoor
+347,430525,"Social Media, Print"
+348,76662,TV
+349,196817,Outdoor
+350,220862,"Radio, TV, Print"
+351,479817,"Social Media, TV"
+352,216914,Online
+353,165199,Radio
+354,328864,"TV, Social Media"
+355,121502,"Radio, Outdoor"
+356,331288,"Online, Outdoor"
+357,256359,"TV, Print"
+358,379148,Print
+359,310469,"Online, TV"
+360,129462,Radio
+361,471820,"Radio, Outdoor"
+362,251951,"Social Media, TV"
+363,385053,"TV, Online"
+364,289374,"Print, Outdoor, Social Media"
+365,439372,"Radio, Social Media, Print"
+366,201661,Outdoor
+367,337489,"Social Media, Outdoor"
+368,85724,Radio
+369,84983,"Social Media, Print, Radio"
+370,429592,"Print, Outdoor"
+371,418270,"Print, Social Media"
+372,211682,Print
+373,354206,"Social Media, Print"
+374,423043,"Radio, Online, Outdoor"
+375,114734,Print
+376,493132,"Outdoor, Online, Social Media"
+377,448633,"TV, Social Media, Print"
+378,360912,Social Media
+379,294453,"Print, Social Media"
+380,452717,Print
+381,382699,"Print, Outdoor"
+382,313122,Online
+383,451215,"Radio, Online, Social Media"
+384,144779,Outdoor
+385,159969,Outdoor
+386,468551,"Radio, Print"
+387,80193,"Radio, Online"
+388,70771,"Social Media, Online, TV"
+389,406374,"Social Media, Online, Outdoor"
+390,236299,"Social Media, Online"
+391,462315,"Print, Social Media, Radio"
+392,185310,Print
+393,179254,Online
+394,480748,Online
+395,299195,"TV, Outdoor, Radio"
+396,326169,"TV, Social Media"
+397,454135,"Social Media, Online"
+398,221369,"Social Media, Outdoor, TV"
+399,161538,"Social Media, Online"
+400,306982,"Radio, Outdoor, Social Media"
+401,234510,Social Media
+402,123616,Outdoor
+403,103370,"Radio, Social Media, Print"
+404,376456,"Online, TV, Radio"
+405,65392,TV
+406,287394,TV
+407,198342,"Print, Radio"
+408,117909,Outdoor
+409,450800,"TV, Social Media"
+410,383244,"Outdoor, TV, Social Media"
+411,397894,TV
+412,246150,"Print, TV, Outdoor"
+413,341756,Outdoor
+414,90744,"TV, Social Media"
+415,112674,"Outdoor, Print"
+416,195156,"Print, Social Media, Outdoor"
+417,255999,"Social Media, Outdoor"
+418,92218,"Outdoor, Social Media"
+419,304238,Print
+420,157911,"Social Media, TV, Radio"
+421,398551,"Radio, Social Media, Print"
+422,50211,"Social Media, TV, Online"
+423,439735,"Print, TV, Radio"
+424,379661,Online
+425,295778,Social Media
+426,381890,Social Media
+427,214061,Online
+428,123164,Print
+429,54100,"Outdoor, TV, Radio"
+430,296850,Online
+431,181374,"Social Media, Radio, Online"
+432,145710,"Print, TV, Social Media"
+433,440154,Outdoor
+434,376326,"Social Media, Radio, Print"
+435,495579,Outdoor
+436,347704,Outdoor
+437,452915,"Online, Outdoor"
+438,103251,"Radio, Print"
+439,375243,"Social Media, Print, Online"
+440,88801,"Online, Outdoor, Radio"
+441,92557,"Radio, Print"
+442,436026,"Online, Outdoor"
+443,212038,"Radio, Social Media, Outdoor"
+444,192395,"Radio, Outdoor"
+445,132702,"Outdoor, Online, TV"
+446,268224,"Social Media, Radio, Print"
+447,141612,"Print, Outdoor"
+448,292031,"Social Media, Outdoor, Radio"
+449,347197,Radio
+450,344710,Outdoor
+451,214092,TV
+452,366817,"Radio, TV, Online"
+453,169738,Social Media
+454,413457,Print
+455,50052,"Outdoor, Online"
+456,484954,Online
+457,245108,"Social Media, Print"
+458,200298,"Online, Print"
+459,331017,Outdoor
+460,445594,"TV, Print, Online"
+461,208657,"Outdoor, Print"
+462,81519,"Radio, TV, Social Media"
+463,209225,"TV, Social Media"
+464,52289,"Radio, TV, Social Media"
+465,133269,Radio
+466,73403,"Radio, Online, TV"
+467,224413,"Outdoor, TV"
+468,76887,"Online, Radio, Social Media"
+469,492767,"Outdoor, Social Media"
+470,401862,"Social Media, Online"
+471,238790,"Online, Outdoor"
+472,405690,Radio
+473,237813,Online
+474,341187,"Outdoor, Online, Social Media"
+475,419682,"TV, Outdoor"
+476,357981,"Print, TV"
+477,88030,"Social Media, TV"
+478,69569,"Online, Radio"
+479,306457,"Radio, Online, TV"
+480,138393,"Radio, TV, Outdoor"
+481,492842,TV
+482,57332,"Social Media, Radio, Print"
+483,386837,Print
+484,69100,"Print, Social Media"
+485,324893,"Outdoor, Online, Social Media"
+486,239020,"Print, Online, Radio"
+487,334770,TV
+488,392881,"Radio, Outdoor, Online"
+489,64940,Print
+490,284567,"Radio, Outdoor, Social Media"
+491,474053,"Print, Online"
+492,148002,Print
+493,84861,Social Media
+494,396934,Social Media
+495,383649,"Social Media, Outdoor"
+496,225570,"Online, Print, Radio"
+497,423611,"Social Media, Radio"
+498,294755,"Radio, TV, Outdoor"
+499,263912,"Social Media, TV, Online"
+500,419835,"Print, TV"
+501,94163,Online
+502,150755,TV
+503,249861,"Social Media, TV"
+504,88445,"Social Media, Online, Print"
+505,498142,"Online, Outdoor, Social Media"
+506,191089,"Social Media, Print"
+507,476485,"Radio, Online"
+508,263503,"TV, Outdoor, Print"
+509,466033,"Outdoor, TV"
+510,247993,"Outdoor, Social Media"
+511,416626,Print
+512,387994,"Radio, TV"
+513,476103,"TV, Online"
+514,336853,"Print, Outdoor"
+515,152188,Online
+516,293856,Online
+517,115644,"Online, Social Media, Radio"
+518,200692,"Print, Radio, Online"
+519,405135,Social Media
+520,56286,"TV, Print, Outdoor"
+521,329389,"Outdoor, TV"
+522,361844,"Outdoor, TV"
+523,454906,"Outdoor, Social Media"
+524,390410,"Online, Outdoor, TV"
+525,231270,"TV, Radio"
+526,394510,Online
+527,331465,Radio
+528,314038,Print
+529,83184,Print
+530,292857,"Print, Outdoor, TV"
+531,440194,Radio
+532,246583,"Outdoor, Social Media, Online"
+533,366871,"Outdoor, Radio"
+534,456682,Social Media
+535,290376,"Radio, Outdoor, Print"
+536,89656,"Print, Outdoor, Social Media"
+537,74412,Social Media
+538,408967,"Social Media, Radio"
+539,64716,"Online, TV, Print"
+540,499513,"Online, Outdoor"
+541,107379,Online
+542,398812,"Social Media, Outdoor, Print"
+543,440472,"Social Media, TV, Online"
+544,187893,"TV, Print, Outdoor"
+545,293730,"Online, Print"
+546,478569,"Print, Radio"
+547,479820,Print
+548,468550,"Social Media, Online"
+549,173708,"Online, Print, Social Media"
+550,76794,"Radio, Outdoor, Print"
+551,96256,Online
+552,113844,"Social Media, Print, TV"
+553,352255,"TV, Online"
+554,411097,"Radio, Social Media"
+555,72647,"Outdoor, TV"
+556,450682,Outdoor
+557,386287,"Outdoor, Online"
+558,288629,"Social Media, Online, TV"
+559,495482,"TV, Online, Radio"
+560,169334,Print
+561,148104,"TV, Radio, Outdoor"
+562,200661,"Outdoor, Online, Print"
+563,286934,"Outdoor, Print, Online"
+564,224077,"Outdoor, Print, TV"
+565,423275,"Print, TV, Outdoor"
+566,452521,"Print, Radio"
+567,485000,"Online, Outdoor, Print"
+568,418213,Outdoor
+569,323651,"Print, Radio, Social Media"
+570,326127,"Outdoor, Online, Social Media"
+571,133921,"TV, Radio"
+572,168446,"Outdoor, Print, TV"
+573,498767,"TV, Radio"
+574,167584,"Online, Outdoor"
+575,260093,"TV, Social Media, Outdoor"
+576,223390,Radio
+577,359716,"Online, Radio, Social Media"
+578,200974,Print
+579,357327,Print
+580,482361,"Social Media, Print"
+581,163574,"Radio, Outdoor"
+582,216805,"TV, Print"
+583,203979,"Print, Online"
+584,185161,"Online, Outdoor"
+585,171628,Radio
+586,333519,"Online, TV"
+587,296649,"Social Media, TV, Outdoor"
+588,278900,Outdoor
+589,410264,"Social Media, Online"
+590,115939,"Outdoor, Social Media"
+591,126376,"TV, Outdoor"
+592,280877,"Print, TV"
+593,209177,Social Media
+594,128205,Outdoor
+595,360785,Radio
+596,273234,"Radio, TV"
+597,141007,"Print, Radio"
+598,168982,Outdoor
+599,375374,"Social Media, Outdoor"
+600,197363,"Social Media, Online"
+601,142033,"Print, Social Media, Outdoor"
+602,484520,Outdoor
+603,89620,Print
+604,116111,Radio
+605,372775,"Radio, Social Media"
+606,241570,Online
+607,388819,"Print, Social Media"
+608,298750,Print
+609,68097,"Print, TV"
+610,357867,"Radio, TV, Social Media"
+611,412594,"Online, Outdoor, Radio"
+612,298704,Print
+613,188402,"TV, Print"
+614,56985,"Social Media, TV, Print"
+615,458007,"Social Media, TV"
+616,368141,"Social Media, Print, Radio"
+617,70159,Radio
+618,428266,"Social Media, Outdoor, Print"
+619,73878,"Radio, Outdoor, Online"
+620,370164,"Radio, Social Media"
+621,362330,"TV, Print, Online"
+622,462267,"Outdoor, Social Media, TV"
+623,124443,"Online, Outdoor, Social Media"
+624,305272,"Online, Outdoor, Radio"
+625,295117,"TV, Online, Outdoor"
+626,65741,"TV, Outdoor"
+627,337238,"Print, Radio, TV"
+628,164313,"Radio, Outdoor"
+629,199621,"Outdoor, Print"
+630,158609,"Social Media, TV, Outdoor"
+631,75165,"Online, TV, Print"
+632,124983,TV
+633,143289,Radio
+634,309797,"Online, Radio"
+635,110730,"Radio, TV, Print"
+636,464321,Online
+637,154304,"Outdoor, Social Media"
+638,343285,"Social Media, Outdoor"
+639,120912,Radio
+640,407810,Online
+641,82181,"Print, TV"
+642,381917,"Radio, Outdoor"
+643,226924,Outdoor
+644,259484,Social Media
+645,214844,Online
+646,230921,"Online, Outdoor"
+647,52396,"Print, TV"
+648,61767,Outdoor
+649,407271,Online
+650,146068,"TV, Print, Radio"
+651,323284,"Outdoor, Radio, Online"
+652,343996,"Outdoor, Radio, TV"
+653,364092,TV
+654,318804,"Online, Radio, Social Media"
+655,332954,"Outdoor, Social Media, TV"
+656,311677,Outdoor
+657,467680,"Print, Radio, Online"
+658,349063,"Radio, Print, Outdoor"
+659,208821,"Radio, TV, Social Media"
+660,210486,"Online, TV, Print"
+661,85823,"Outdoor, Radio, TV"
+662,496303,"Online, TV, Outdoor"
+663,450845,TV
+664,69381,"Social Media, Online"
+665,437801,"TV, Radio, Print"
+666,112291,"Online, TV"
+667,157572,Outdoor
+668,356354,"Online, Social Media, Outdoor"
+669,378597,"Radio, Online"
+670,277587,"Outdoor, Social Media"
+671,485485,"Online, TV"
+672,270327,"TV, Online"
+673,166262,Outdoor
+674,54077,Radio
+675,440285,"Online, TV, Outdoor"
+676,227889,Outdoor
+677,402142,"Outdoor, Social Media, Online"
+678,398234,"Print, TV"
+679,69605,Outdoor
+680,419708,"Radio, Print, Online"
+681,180117,"TV, Online"
+682,428554,TV
+683,271477,"Print, TV, Radio"
+684,316216,"Print, Online, Social Media"
+685,95617,Print
+686,220680,"Outdoor, Print, Radio"
+687,486902,Radio
+688,466651,"Online, Radio"
+689,497391,"Radio, Print, Social Media"
+690,279597,"Online, TV, Outdoor"
+691,418223,Radio
+692,254772,"Radio, Online"
+693,473631,Online
+694,493696,"Online, TV, Outdoor"
+695,445007,Online
+696,329523,Print
+697,495029,"Print, TV, Radio"
+698,492684,"TV, Radio, Online"
+699,263786,"Online, Print, Radio"
+700,186697,"Online, Radio, Print"
+701,134339,"Online, Social Media"
+702,354656,"TV, Social Media, Print"
+703,65659,"Social Media, Online"
+704,393723,Outdoor
+705,73094,"Online, Outdoor, TV"
+706,169417,"Social Media, Print"
+707,274099,Outdoor
+708,93845,"Online, Print, TV"
+709,66334,"Radio, Outdoor"
+710,265911,"Radio, Social Media, Outdoor"
+711,449040,"TV, Radio, Online"
+712,233741,"TV, Print"
+713,140126,Radio
+714,233758,"Radio, Social Media"
+715,375186,"Print, Outdoor"
+716,68613,"Social Media, Outdoor"
+717,63835,"Social Media, Outdoor"
+718,258252,"Print, Social Media, Radio"
+719,354512,"Radio, TV, Online"
+720,326191,Print
+721,337020,Online
+722,124573,"Online, TV"
+723,292431,"TV, Print"
+724,220065,"Radio, TV, Outdoor"
+725,99723,"Print, Radio, Online"
+726,107628,"TV, Social Media"
+727,340405,"Print, Radio"
+728,480749,Radio
+729,97835,"Social Media, Radio"
+730,272701,Online
+731,161567,Print
+732,176724,"Outdoor, TV"
+733,151004,Social Media
+734,295561,Radio
+735,75521,"Radio, Social Media, Print"
+736,384124,TV
+737,323028,"Radio, Social Media, TV"
+738,223174,"Print, TV, Social Media"
+739,148033,"TV, Outdoor, Print"
+740,291344,"Online, TV, Social Media"
+741,479819,"Radio, Outdoor, Social Media"
+742,368648,"Radio, Print, Outdoor"
+743,175710,"Online, Print"
+744,384313,Social Media
+745,276818,"TV, Social Media, Print"
+746,71608,Radio
+747,327891,TV
+748,155253,Social Media
+749,234346,"Social Media, Online"
+750,265310,"Social Media, Print, TV"
+751,409689,Online
+752,311031,"Outdoor, TV"
+753,203043,"Print, TV"
+754,345762,"Print, Radio, TV"
+755,136443,"Print, Outdoor"
+756,420257,Outdoor
+757,140644,Outdoor
+758,301339,"Outdoor, Social Media"
+759,142308,"Print, Radio, Outdoor"
+760,196503,TV
+761,240120,"Outdoor, Social Media, Print"
+762,215339,Online
+763,470240,TV
+764,150571,TV
+765,131067,"Radio, Outdoor, Print"
+766,282891,"Radio, TV, Print"
+767,477012,"Print, TV, Radio"
+768,276498,Outdoor
+769,481719,"TV, Online"
+770,135660,"Print, Social Media"
+771,54615,"Online, Print, Outdoor"
+772,186325,TV
+773,337189,"Radio, Print, Social Media"
+774,316423,Radio
+775,158776,Social Media
+776,347708,"Social Media, TV, Radio"
+777,423611,Outdoor
+778,359238,"Social Media, Print"
+779,377536,"Radio, Print"
+780,188423,Outdoor
+781,288144,"Social Media, Online, Print"
+782,69217,"Social Media, Radio"
+783,211587,Print
+784,417075,"Outdoor, Radio"
+785,405549,Radio
+786,473360,Radio
+787,485943,"Outdoor, TV, Print"
+788,487703,"Outdoor, Social Media, Radio"
+789,120822,"Online, TV, Print"
+790,104285,"Outdoor, Radio, Social Media"
+791,443787,TV
+792,222412,"Print, Outdoor"
+793,210733,"Print, Online, Radio"
+794,290153,"Outdoor, Social Media, TV"
+795,253136,Print
+796,150368,"Outdoor, TV, Print"
+797,430076,"Outdoor, TV, Online"
+798,459167,"Social Media, Outdoor"
+799,386378,Online
+800,71632,"TV, Radio, Print"
+801,103062,"TV, Radio"
+802,205705,"Online, TV"
+803,300520,"Outdoor, Social Media"
+804,324282,Social Media
+805,94998,"Outdoor, Print, Radio"
+806,482109,"Print, Online, Social Media"
+807,288307,"Online, TV"
+808,244286,"TV, Print"
+809,136003,Radio
+810,477880,Outdoor
+811,251328,"Print, Online, Social Media"
+812,103003,"Social Media, TV, Print"
+813,326464,"Print, Radio, Social Media"
+814,207569,Outdoor
+815,413598,"Social Media, Print, Radio"
+816,295460,"Radio, Online, Outdoor"
+817,97565,TV
+818,387772,"Radio, Social Media"
+819,187100,Print
+820,233710,"Social Media, Radio"
+821,399040,"Print, Social Media, TV"
+822,97904,Outdoor
+823,490001,"Online, TV"
+824,365939,"Radio, Print"
+825,136667,"Social Media, Online"
+826,76156,"TV, Online, Print"
+827,295041,Radio
+828,220666,"Radio, Social Media"
+829,63277,Outdoor
+830,324148,"Print, Outdoor, Online"
+831,188937,Print
+832,194892,"Online, TV"
+833,122977,"Online, Print, TV"
+834,113170,Outdoor
+835,114954,"Outdoor, Online, Print"
+836,448727,"Print, Radio"
+837,289885,Online
+838,261242,"Print, Radio, Online"
+839,367010,"Print, Social Media"
+840,193895,"Outdoor, Online, TV"
+841,420001,"TV, Print, Outdoor"
+842,138738,Social Media
+843,411199,"Print, Radio, Outdoor"
+844,75221,"Social Media, TV, Print"
+845,120578,"Radio, Online, Print"
+846,451695,"Print, Outdoor, Social Media"
+847,99054,"Online, Radio"
+848,160501,"TV, Radio, Online"
+849,69214,Outdoor
+850,319399,"Online, Print, Social Media"
+851,197470,"Social Media, Print, Radio"
+852,335069,"Social Media, Radio"
+853,88601,"Radio, Outdoor, TV"
+854,227797,Social Media
+855,217255,Social Media
+856,291574,"Social Media, Print, Outdoor"
+857,182765,"Print, Social Media"
+858,493140,"Online, Outdoor, Radio"
+859,192214,"Social Media, Print"
+860,363367,Outdoor
+861,214835,Social Media
+862,290135,"Outdoor, Online, Radio"
+863,152001,"TV, Social Media"
+864,127756,Radio
+865,487576,Radio
+866,293423,Online
+867,257365,Print
+868,338708,"Social Media, Outdoor, Online"
+869,150554,"Online, Outdoor"
+870,419888,Online
+871,161706,Online
+872,294138,"Online, Social Media"
+873,107231,"Radio, TV, Print"
+874,308555,"Radio, Online"
+875,267330,"Print, Outdoor"
+876,176291,Radio
+877,188387,"Online, TV"
+878,54415,Radio
+879,62292,"Social Media, Print, Online"
+880,320386,"Print, Radio, TV"
+881,373269,Outdoor
+882,296106,Online
+883,86860,Print
+884,473392,"Radio, Print, Social Media"
+885,371044,Print
+886,156819,"Radio, Social Media, TV"
+887,352169,Print
+888,100156,TV
+889,400725,"Radio, Outdoor"
+890,266416,"Outdoor, TV"
+891,234216,"TV, Online, Print"
+892,54116,"Online, TV, Social Media"
+893,343614,"Radio, Social Media"
+894,423051,"Social Media, Radio, Online"
+895,179734,"Radio, Print"
+896,55296,"Print, Radio"
+897,398892,"Outdoor, Online, TV"
+898,336049,Outdoor
+899,399600,Radio
+900,292242,"Radio, TV, Outdoor"
+901,257425,"Print, TV, Online"
+902,148712,TV
+903,85477,"Print, Radio, Online"
+904,262151,"Radio, Print"
+905,440779,"Online, Radio"
+906,76706,"TV, Social Media"
+907,495093,Radio
+908,476146,"Print, Social Media, Outdoor"
+909,338332,Online
+910,461395,"Outdoor, Online, Social Media"
+911,299088,"Radio, Outdoor, TV"
+912,232063,TV
+913,307261,"TV, Outdoor"
+914,444450,"Radio, TV, Print"
+915,480884,Social Media
+916,427139,"Radio, Online, Outdoor"
+917,130857,Outdoor
+918,316282,"Print, Radio"
+919,250140,"Outdoor, Radio"
+920,266569,Online
+921,242707,Social Media
+922,80401,"Print, Social Media, Online"
+923,430656,"Radio, Outdoor, Print"
+924,490265,"TV, Outdoor"
+925,144380,Print
+926,329880,"Social Media, Radio"
+927,291456,"Print, Radio"
+928,453423,"Outdoor, Radio, Social Media"
+929,366846,"Outdoor, TV"
+930,387348,"Social Media, Print, TV"
+931,478357,TV
+932,348564,Radio
+933,254101,"Outdoor, TV"
+934,73358,"Online, Print, Outdoor"
+935,457864,Online
+936,315377,"Online, Outdoor"
+937,357042,TV
+938,277384,Print
+939,227130,"Social Media, Print"
+940,276749,Radio
+941,71827,"Online, Print"
+942,409061,"Radio, TV, Outdoor"
+943,121087,"Online, TV"
+944,199698,"Outdoor, Social Media, TV"
+945,89148,"Social Media, TV, Radio"
+946,418976,"Online, Radio, Social Media"
+947,125755,Radio
+948,229514,"Print, Outdoor, Online"
+949,236965,"Social Media, Radio, Online"
+950,192392,"Online, Radio"
+951,437056,Print
+952,397302,Outdoor
+953,384655,"Social Media, Radio"
+954,151303,"Online, Radio"
+955,135284,"Print, Outdoor, TV"
+956,160967,"Print, Online"
+957,223773,"Social Media, Print"
+958,265440,"Social Media, TV"
+959,162578,"Online, Social Media, Print"
+960,255993,"TV, Social Media, Online"
+961,132972,TV
+962,171028,Outdoor
+963,167334,Print
+964,377204,Outdoor
+965,256323,"Outdoor, Radio"
+966,326848,Radio
+967,351188,Online
+968,80831,Online
+969,407677,Social Media
+970,177787,Radio
+971,279389,"Outdoor, Online"
+972,202274,Radio
+973,398115,Social Media
+974,152715,"Radio, Social Media, Outdoor"
+975,483694,"TV, Social Media, Radio"
+976,230055,Print
+977,370236,"Social Media, Radio"
+978,338651,Outdoor
+979,384164,Radio
+980,297981,"Online, Outdoor"
+981,222708,"Print, Social Media, Online"
+982,130817,"Outdoor, Radio"
+983,283749,"Online, Print, Outdoor"
+984,77386,"Radio, Print"
+985,76471,"Print, TV, Outdoor"
+986,326026,Radio
+987,266220,TV
+988,277747,"Radio, TV, Outdoor"
+989,193412,"Social Media, Radio"
+990,405755,"TV, Radio, Online"
+991,140533,Outdoor
+992,313758,Online
+993,437215,"Print, TV, Social Media"
+994,425332,"Print, Social Media"
+995,62883,Radio
+996,175544,Radio
+997,371630,Online
+998,383335,Print
+999,267235,TV
+1000,141115,"TV, Print, Social Media"
+1001,175550,Radio
+1002,410431,"TV, Online"
+1003,136472,TV
+1004,474041,"Print, TV, Online"
+1005,275391,"TV, Radio, Print"
+1006,177539,"Outdoor, TV"
+1007,225327,"Outdoor, Social Media"
+1008,165431,Social Media
+1009,222951,"Online, Social Media"
+1010,108858,Outdoor
+1011,420423,"TV, Online, Outdoor"
+1012,483645,Online
+1013,346613,Outdoor
+1014,413861,Online
+1015,152636,"Outdoor, Radio"
+1016,78239,Outdoor
+1017,332200,TV
+1018,417911,"Print, Social Media"
+1019,425454,Online
+1020,289744,"Social Media, Outdoor, Radio"
+1021,329945,"Print, Online, Social Media"
+1022,215713,Social Media
+1023,423801,Online
+1024,363923,"Radio, Social Media"
+1025,133642,"Print, Social Media, Radio"
+1026,175747,"Online, Print, TV"
+1027,118335,"Social Media, Outdoor"
+1028,277576,"Online, Social Media"
+1029,141007,Online
+1030,121446,"Social Media, Online, Outdoor"
+1031,122195,"Social Media, Radio, TV"
+1032,169642,"Print, Radio, Online"
+1033,414063,Print
+1034,472231,"Social Media, Online"
+1035,498136,Online
+1036,68126,"Outdoor, Online"
+1037,306008,"TV, Print, Radio"
+1038,169900,Social Media
+1039,495009,"Print, Radio, Online"
+1040,492948,Social Media
+1041,470348,"Radio, Online, TV"
+1042,56401,"TV, Radio, Outdoor"
+1043,119535,Print
+1044,298603,"Outdoor, Online, Radio"
+1045,134280,"Outdoor, Online, Social Media"
+1046,434683,Online
+1047,364882,"TV, Radio, Social Media"
+1048,132837,"Print, Outdoor, Social Media"
+1049,418285,"Print, Social Media, TV"
+1050,274223,"Outdoor, TV"
+1051,369370,Radio
+1052,112923,Outdoor
+1053,283034,Online
+1054,399352,Outdoor
+1055,205514,"Radio, TV"
+1056,134071,"Radio, TV"
+1057,337761,Radio
+1058,339832,TV
+1059,141956,Online
+1060,81208,"Social Media, Print"
+1061,124903,"TV, Print, Radio"
+1062,173987,"Social Media, Print, Online"
+1063,66325,"Print, Social Media"
+1064,465229,"Social Media, Print, Radio"
+1065,153726,"TV, Outdoor, Social Media"
+1066,382514,"Outdoor, Radio"
+1067,236596,"Social Media, Online"
+1068,275893,"Social Media, Online"
+1069,291624,"Print, TV"
+1070,397758,"Outdoor, Print"
+1071,404561,"Outdoor, TV, Online"
+1072,113573,"Print, TV, Social Media"
+1073,186505,"Social Media, Print"
+1074,307867,"Outdoor, Print, Online"
+1075,198683,"TV, Radio"
+1076,109760,"TV, Radio"
+1077,233795,Radio
+1078,148291,"TV, Online, Social Media"
+1079,114563,"Radio, Outdoor"
+1080,186813,"Social Media, Outdoor"
+1081,184860,"Online, TV"
+1082,93739,TV
+1083,312853,Radio
+1084,191455,"TV, Radio, Online"
+1085,127979,"Print, Radio"
+1086,418369,Print
+1087,51159,"Social Media, TV, Radio"
+1088,254431,"TV, Outdoor"
+1089,245726,Outdoor
+1090,352017,"Outdoor, Social Media"
+1091,225230,Radio
+1092,280722,"Radio, Online"
+1093,458803,"Online, Outdoor"
+1094,125727,"Outdoor, Print, Online"
+1095,97478,Print
+1096,386041,"Social Media, Radio"
+1097,384306,Social Media
+1098,463840,"Social Media, Online, Print"
+1099,492421,"TV, Print, Outdoor"
+1100,222974,Radio
+1101,219842,"Outdoor, Print"
+1102,457096,"Radio, Outdoor"
+1103,437320,Outdoor
+1104,218948,"Print, TV, Radio"
+1105,84333,"Radio, Social Media, Outdoor"
+1106,311551,Print
+1107,170915,"Social Media, Outdoor, Online"
+1108,458868,"Radio, TV"
+1109,412753,"Social Media, Outdoor"
+1110,455438,"Online, Outdoor"
+1111,86411,"Social Media, Print, Radio"
+1112,439076,"Radio, Social Media, Online"
+1113,316889,Online
+1114,146942,"Print, Social Media"
+1115,185568,Outdoor
+1116,255486,"Outdoor, Social Media, Print"
+1117,332440,Online
+1118,154727,"Outdoor, Online"
+1119,143169,TV
+1120,451472,Print
+1121,430350,"Print, Social Media, Radio"
+1122,395050,"Print, Online, Social Media"
+1123,392401,"Radio, Print"
+1124,394688,Radio
+1125,465845,"Outdoor, Social Media"
+1126,429674,"Outdoor, Social Media, Print"
+1127,224858,"Outdoor, Print, TV"
+1128,262086,"Social Media, Outdoor"
+1129,322053,Outdoor
+1130,264020,"Social Media, Online, Print"
+1131,183622,Online
+1132,437518,"Print, TV"
+1133,411552,Outdoor
+1134,225437,Social Media
+1135,101600,"Outdoor, Social Media"
+1136,52191,"TV, Print"
+1137,91601,Print
+1138,119634,Print
+1139,346006,"Outdoor, Radio, Social Media"
+1140,148825,Online
+1141,335671,"TV, Radio"
+1142,197745,"Outdoor, Print, Social Media"
+1143,452774,"Radio, Print"
+1144,261084,Outdoor
+1145,352783,Social Media
+1146,257426,"Radio, Social Media"
+1147,460642,"TV, Radio, Online"
+1148,359335,"Outdoor, Print"
+1149,338971,Radio
+1150,316535,"Outdoor, TV, Online"
+1151,494875,"Outdoor, Social Media"
+1152,358141,"Outdoor, Online, TV"
+1153,389363,Outdoor
+1154,86770,Online
+1155,416400,TV
+1156,318523,"TV, Outdoor"
+1157,201498,"Outdoor, Print"
+1158,311761,Online
+1159,331498,"Online, TV, Radio"
+1160,167085,"Radio, Print, TV"
+1161,246679,Online
+1162,374606,"Online, Social Media, Outdoor"
+1163,151632,"Print, Online, Social Media"
+1164,426256,"Print, Online"
+1165,84887,"Social Media, TV, Outdoor"
+1166,311548,"TV, Radio"
+1167,220859,Social Media
+1168,73991,"TV, Online, Radio"
+1169,398519,"Radio, Social Media"
+1170,295944,"TV, Radio"
+1171,371897,Social Media
+1172,221055,TV
+1173,436829,"Radio, Online"
+1174,87668,"Social Media, Outdoor, Online"
+1175,155009,"TV, Outdoor"
+1176,407571,"Print, Outdoor"
+1177,479606,"Social Media, Outdoor, TV"
+1178,430901,"TV, Social Media"
+1179,153887,"Radio, Online"
+1180,206842,"Online, Outdoor, Radio"
+1181,394473,"Print, Online"
+1182,475822,"TV, Social Media, Online"
+1183,180161,"Print, TV, Social Media"
+1184,223854,"Print, Social Media, Online"
+1185,60293,"Online, Print"
+1186,276981,"Outdoor, TV, Online"
+1187,89673,Social Media
+1188,88517,"TV, Radio"
+1189,392592,Print
+1190,204764,TV
+1191,471038,"TV, Online"
+1192,372238,"Social Media, Radio, TV"
+1193,182643,Online
+1194,356847,"Social Media, Online, Radio"
+1195,439520,"Radio, Online, Print"
+1196,246217,Online
+1197,302797,"TV, Print, Social Media"
+1198,147870,Outdoor
+1199,230994,TV
+1200,310572,"Outdoor, Social Media, Print"
+1201,326965,"Radio, Online"
+1202,374015,"Outdoor, Online"
+1203,480809,"Radio, Outdoor, Social Media"
+1204,427342,Print
+1205,433214,"Print, Online, TV"
+1206,300880,"Social Media, Outdoor"
+1207,114878,"Online, TV"
+1208,335971,"Social Media, Radio, Print"
+1209,232816,"Online, Social Media"
+1210,64328,TV
+1211,137684,Online
+1212,391583,Outdoor
+1213,333952,"Outdoor, Print"
+1214,490294,"Radio, Print"
+1215,465551,Social Media
+1216,317417,Radio
+1217,119724,"Outdoor, Online"
+1218,201356,"Online, TV, Print"
+1219,154855,TV
+1220,261732,Radio
+1221,410258,"Print, TV, Radio"
+1222,419832,"Radio, Online, TV"
+1223,130130,Online
+1224,297089,Social Media
+1225,354530,Online
+1226,228484,"TV, Radio, Social Media"
+1227,457446,TV
+1228,211559,"Social Media, Print, Outdoor"
+1229,270561,TV
+1230,314076,"Online, Radio"
+1231,242309,"Social Media, Print"
+1232,483636,"Radio, Online, Outdoor"
+1233,392209,"Print, Outdoor"
+1234,423088,Radio
+1235,388684,"Print, Radio"
+1236,314648,Social Media
+1237,62674,Online
+1238,394135,TV
+1239,325712,"TV, Print"
+1240,86330,"Online, Outdoor, TV"
+1241,103362,"TV, Print, Outdoor"
+1242,266537,"TV, Online"
+1243,433777,"TV, Outdoor"
+1244,299187,"Radio, TV"
+1245,463827,"Outdoor, Print"
+1246,417044,Social Media
+1247,333853,"Radio, TV, Outdoor"
+1248,191013,"Social Media, Outdoor"
+1249,433730,"Radio, Social Media"
+1250,346637,Outdoor
+1251,298744,Print
+1252,275281,"Radio, TV"
+1253,145765,Print
+1254,57082,Print
+1255,372428,"TV, Online, Social Media"
+1256,463825,"Radio, Outdoor"
+1257,132648,Online
+1258,470626,"Outdoor, Social Media"
+1259,82360,"TV, Online"
+1260,298609,TV
+1261,102002,Social Media
+1262,450097,Social Media
+1263,96458,"Online, Outdoor, Radio"
+1264,162975,Online
+1265,412670,"Print, Radio, Outdoor"
+1266,359819,Print
+1267,224658,"Social Media, Online, Print"
+1268,426546,"Outdoor, Print, Social Media"
+1269,336065,"Print, Online, Social Media"
+1270,166900,"Social Media, TV, Radio"
+1271,383121,"Radio, Online"
+1272,199877,"Radio, Social Media, TV"
+1273,417082,Radio
+1274,401716,"Radio, Online, Print"
+1275,188833,"Social Media, Outdoor"
+1276,96643,Print
+1277,419355,TV
+1278,214002,"Radio, Outdoor"
+1279,196395,"Radio, Outdoor, Online"
+1280,58187,"Print, Radio, Social Media"
+1281,376643,"Radio, Online"
+1282,173331,TV
+1283,246143,"Radio, Print, Social Media"
+1284,454908,Print
+1285,106388,"TV, Online"
+1286,67118,Radio
+1287,302229,Outdoor
+1288,364934,Online
+1289,287677,Radio
+1290,202810,"Social Media, TV, Print"
+1291,212644,Print
+1292,117342,"Outdoor, Print, Online"
+1293,190272,Radio
+1294,391499,"Outdoor, Print"
+1295,274613,"Outdoor, Social Media, Online"
+1296,450841,Online
+1297,125601,Online
+1298,249090,"Radio, Outdoor, Online"
+1299,365724,"Radio, Online"
+1300,172529,"Radio, Print, Online"
+1301,170081,"Online, Print"
+1302,97521,Print
+1303,451819,"Online, TV, Outdoor"
+1304,127638,"Social Media, Online, TV"
+1305,486557,"Print, Online"
+1306,251977,"Social Media, Online, Outdoor"
+1307,491803,"TV, Social Media"
+1308,68159,TV
+1309,305192,"Print, Radio"
+1310,360878,"Outdoor, Print, TV"
+1311,282357,"TV, Outdoor, Radio"
+1312,306546,"TV, Print"
+1313,292280,Print
+1314,117256,"Outdoor, Radio, Social Media"
+1315,289358,Print
+1316,293778,"Print, Radio, Social Media"
+1317,210012,Social Media
+1318,323368,Social Media
+1319,235357,"Outdoor, Radio"
+1320,389820,"Social Media, TV"
+1321,67195,Radio
+1322,54478,"Outdoor, Radio"
+1323,285764,"Print, Social Media"
+1324,495150,TV
+1325,250458,Print
+1326,55346,"Print, Radio"
+1327,192698,"Radio, Social Media"
+1328,260263,"Outdoor, Online"
+1329,455508,Social Media
+1330,104577,Online
+1331,465976,"Radio, Online"
+1332,473069,"Radio, Print, TV"
+1333,338431,"Radio, Outdoor, Print"
+1334,151332,"Radio, Social Media, Online"
+1335,291519,"Radio, Outdoor"
+1336,417493,Radio
+1337,211121,Social Media
+1338,457390,"Online, Radio"
+1339,89115,"Outdoor, Online, Social Media"
+1340,188233,"TV, Online"
+1341,496939,Outdoor
+1342,312743,Outdoor
+1343,315654,"Online, Social Media"
+1344,157942,"Outdoor, Online"
+1345,435901,"Social Media, Online"
+1346,243087,Radio
+1347,407092,Social Media
+1348,414808,Online
+1349,128686,"TV, Outdoor, Radio"
+1350,275805,Social Media
+1351,222796,"TV, Outdoor"
+1352,119681,Online
+1353,105528,"Radio, Outdoor, Social Media"
+1354,70610,"TV, Radio, Print"
+1355,365884,"Radio, Social Media"
+1356,401968,"Outdoor, Radio, Print"
+1357,262125,"TV, Outdoor"
+1358,303764,"Radio, Print"
+1359,167898,"Social Media, Online"
+1360,371660,"Print, Outdoor, Radio"
+1361,312780,"Print, Radio"
+1362,447042,Online
+1363,385766,Outdoor
+1364,58521,"Social Media, Online"
+1365,414432,Print
+1366,62208,"Social Media, Online, Outdoor"
+1367,416231,"TV, Radio, Online"
+1368,494270,"Print, Online"
+1369,266395,Online
+1370,152104,Radio
+1371,54307,"Radio, Print"
+1372,117632,"Online, Outdoor"
+1373,276702,"Print, Social Media"
+1374,412964,"Outdoor, Radio"
+1375,442165,"Social Media, Online, Outdoor"
+1376,357602,Social Media
+1377,89069,"Online, Radio, Social Media"
+1378,496105,"Print, TV, Outdoor"
+1379,386197,"Online, Radio"
+1380,241906,TV
+1381,416154,"Online, Print"
+1382,314858,"Print, Online"
+1383,321252,Online
+1384,487086,"Online, Outdoor, TV"
+1385,410508,"Outdoor, Print, Social Media"
+1386,167968,"Outdoor, Online"
+1387,128821,Online
+1388,127539,"Online, TV, Outdoor"
+1389,254527,"Print, Radio, TV"
+1390,224854,TV
+1391,253743,"Online, Social Media, Radio"
+1392,78214,Online
+1393,140935,"TV, Print"
+1394,408875,"TV, Print"
+1395,390921,"Social Media, Outdoor, TV"
+1396,226990,"Online, Outdoor"
+1397,225709,"TV, Print, Online"
+1398,447720,"TV, Outdoor"
+1399,131844,"TV, Outdoor"
+1400,210747,Radio
+1401,393564,"TV, Radio"
+1402,308564,Radio
+1403,77119,"Social Media, Radio, TV"
+1404,55321,"Online, TV, Radio"
+1405,58610,"Print, Social Media, Radio"
+1406,345192,"TV, Radio, Outdoor"
+1407,330120,"Outdoor, Print"
+1408,70030,"TV, Print"
+1409,109383,Radio
+1410,375151,Online
+1411,189315,"Radio, Print"
+1412,496258,"TV, Outdoor, Social Media"
+1413,190618,"Online, TV"
+1414,201059,Online
+1415,238762,Social Media
+1416,422445,"TV, Outdoor, Radio"
+1417,300781,"Print, Outdoor"
+1418,435761,Print
+1419,242243,"TV, Print, Online"
+1420,323726,"Social Media, Outdoor, TV"
+1421,52079,"Online, Outdoor, Social Media"
+1422,308997,Social Media
+1423,86235,Online
+1424,136856,"Social Media, Radio"
+1425,498892,Online
+1426,336731,"Online, Outdoor, Print"
+1427,441165,"Outdoor, Print, Online"
+1428,75796,"Print, Online, Outdoor"
+1429,223053,Print
+1430,438098,TV
+1431,234853,"Radio, TV"
+1432,164134,Radio
+1433,266444,Social Media
+1434,261923,Online
+1435,495809,"Outdoor, Online"
+1436,209527,Print
+1437,480806,"Radio, Outdoor, Online"
+1438,460415,Print
+1439,252280,"Social Media, TV, Outdoor"
+1440,475242,Outdoor
+1441,377995,"Outdoor, Online"
+1442,448255,"Online, Outdoor, Print"
+1443,451297,"Outdoor, Social Media"
+1444,88457,"Print, Social Media, Outdoor"
+1445,453571,"Social Media, Print, TV"
+1446,270311,Print
+1447,336666,"Radio, Social Media"
+1448,185233,"Print, Online, Radio"
+1449,340484,"Radio, Online"
+1450,62185,Outdoor
+1451,217031,"Outdoor, Online"
+1452,332865,"Radio, TV, Social Media"
+1453,138593,"Outdoor, Radio, TV"
+1454,352680,"Online, Social Media, Radio"
+1455,422997,"Outdoor, Radio, TV"
+1456,66802,"Online, Print, Social Media"
+1457,321777,"Outdoor, Radio, Online"
+1458,311282,"Print, Outdoor, TV"
+1459,401938,"Online, Social Media"
+1460,363879,"Radio, TV"
+1461,254579,"Outdoor, TV"
+1462,209535,Outdoor
+1463,493542,"Radio, Print, Outdoor"
+1464,275800,Outdoor
+1465,233568,"Print, TV"
+1466,496851,Outdoor
+1467,131226,"Radio, Outdoor, Social Media"
+1468,133760,"Radio, Social Media"
+1469,489413,Outdoor
+1470,345961,"TV, Radio"
+1471,283883,"Social Media, Online, Radio"
+1472,80499,"Social Media, TV, Radio"
+1473,210137,"Radio, Social Media, Online"
+1474,245001,"Online, Outdoor, TV"
+1475,280132,"Online, Outdoor, Social Media"
+1476,246455,"TV, Outdoor, Online"
+1477,247149,"Online, Social Media, Print"
+1478,497676,"Outdoor, Print"
+1479,488296,"Print, Online, TV"
+1480,88789,"Social Media, Online, TV"
+1481,125880,Outdoor
+1482,473724,"TV, Online"
+1483,193549,"TV, Radio"
+1484,325193,"TV, Online"
+1485,409039,"Print, Online, Outdoor"
+1486,261893,"Radio, Outdoor, TV"
+1487,57478,"Radio, Print"
+1488,422634,"Outdoor, Online"
+1489,390308,"Radio, Social Media, Print"
+1490,68644,TV
+1491,453817,"Print, Online"
+1492,435656,Print
+1493,173771,"Print, Social Media, Online"
+1494,86063,"Social Media, TV"
+1495,231428,"Online, Social Media, TV"
+1496,443706,"Radio, Social Media"
+1497,267086,"TV, Social Media, Print"
+1498,176709,Radio
+1499,154295,"Radio, Social Media, Print"
+1500,209766,TV
+1501,497277,TV
+1502,445291,Social Media
+1503,296169,Print
+1504,413786,"Radio, Social Media"
+1505,192322,"TV, Social Media"
+1506,326845,"TV, Online"
+1507,442738,"Print, Social Media, Radio"
+1508,215459,Radio
+1509,410178,"Radio, Outdoor, Online"
+1510,326445,"Radio, Social Media, Online"
+1511,326911,"Radio, Online, Outdoor"
+1512,68493,"Social Media, Online"
+1513,454667,"Social Media, Radio, Print"
+1514,399265,"Print, Online, Social Media"
+1515,66412,"Online, Outdoor, Radio"
+1516,324836,"Online, Social Media, Outdoor"
+1517,385656,TV
+1518,407805,Radio
+1519,89847,"TV, Outdoor, Social Media"
+1520,337973,"TV, Social Media"
+1521,154839,"TV, Social Media, Online"
+1522,253147,"Online, Social Media, Print"
+1523,286905,"Outdoor, TV, Social Media"
+1524,62305,Online
+1525,184793,"Outdoor, Social Media"
+1526,408849,"Social Media, Print"
+1527,429057,Outdoor
+1528,198505,"Radio, Print"
+1529,248809,"TV, Radio"
+1530,424038,"Outdoor, Social Media, Radio"
+1531,140355,"Outdoor, Social Media"
+1532,378939,Social Media
+1533,233295,"TV, Print"
+1534,494197,"Social Media, Outdoor, Print"
+1535,320802,"Radio, Print, Social Media"
+1536,116633,Social Media
+1537,127339,Print
+1538,62288,"Online, Print"
+1539,371672,TV
+1540,249500,"Print, TV"
+1541,54936,"TV, Outdoor, Online"
+1542,95639,Social Media
+1543,180239,"Outdoor, Social Media, Radio"
+1544,240853,"TV, Social Media"
+1545,472301,Online
+1546,293582,Radio
+1547,452406,"TV, Print"
+1548,162739,"TV, Social Media, Print"
+1549,199505,"Social Media, Outdoor, Online"
+1550,446360,"Social Media, Print, Online"
+1551,271113,"Radio, Print"
+1552,315573,"TV, Radio"
+1553,308380,"Print, Outdoor, TV"
+1554,340419,Outdoor
+1555,315029,Social Media
+1556,362465,"Social Media, Print"
+1557,116275,"TV, Radio"
+1558,369783,"Outdoor, Radio, TV"
+1559,117769,Social Media
+1560,203188,Radio
+1561,424106,"Outdoor, TV"
+1562,323503,Outdoor
+1563,485224,"TV, Online, Radio"
+1564,163534,"Online, Outdoor, Radio"
+1565,464334,"Radio, TV, Outdoor"
+1566,338866,"Online, TV"
+1567,216158,"Print, Online, TV"
+1568,404055,TV
+1569,479691,"Radio, Social Media, Print"
+1570,400802,Online
+1571,52913,"Online, Radio"
+1572,54621,"Outdoor, Radio"
+1573,106776,"Outdoor, Radio"
+1574,432826,"Outdoor, Social Media"
+1575,387611,"Outdoor, Social Media, Print"
+1576,337898,Radio
+1577,362528,"Radio, Online, Outdoor"
+1578,328913,"Social Media, Online"
+1579,206548,Online
+1580,374202,Radio
+1581,470794,TV
+1582,387352,"Social Media, Outdoor, Print"
+1583,440284,Print
+1584,156721,"Social Media, TV"
+1585,207178,"Online, Social Media"
+1586,278482,"Radio, Outdoor, Online"
+1587,262172,"Print, Outdoor, Social Media"
+1588,259694,"Social Media, Print, Radio"
+1589,338249,TV
+1590,434926,"Radio, TV, Print"
+1591,449223,"Online, Radio, Print"
+1592,117726,"TV, Print, Online"
+1593,90568,TV
+1594,190047,"TV, Social Media"
+1595,381752,"Print, Online, TV"
+1596,407054,Print
+1597,222475,Radio
+1598,189702,"TV, Online"
+1599,108723,"Print, TV"
+1600,157205,"TV, Online"
+1601,95349,"Online, Radio"
+1602,186734,"Radio, Outdoor, Print"
+1603,354255,"Radio, Social Media, Online"
+1604,108029,Social Media
+1605,194586,TV
+1606,287888,"Online, Print"
+1607,197198,Radio
+1608,247808,"Print, Social Media, Outdoor"
+1609,273591,Online
+1610,398754,Print
+1611,429393,"Print, Online, Social Media"
+1612,136575,"Radio, Social Media"
+1613,216200,"Radio, TV"
+1614,308822,Radio
+1615,274721,"Outdoor, Online"
+1616,86188,TV
+1617,205234,"Radio, Print"
+1618,152385,Online
+1619,237770,TV
+1620,202092,Print
+1621,362922,"Social Media, Radio, TV"
+1622,230650,Radio
+1623,158687,"Radio, Social Media"
+1624,328843,TV
+1625,377101,"Social Media, Outdoor, Online"
+1626,98721,"Radio, Print, Online"
+1627,163056,Radio
+1628,143963,Radio
+1629,140489,"Social Media, Online, Radio"
+1630,455893,"Social Media, TV"
+1631,106712,"Outdoor, Radio, Social Media"
+1632,442010,"Print, Social Media"
+1633,227257,"Online, Print"
+1634,338361,TV
+1635,248427,"Social Media, TV"
+1636,319436,"Outdoor, TV"
+1637,298245,"Online, Print, Social Media"
+1638,244827,Print
+1639,173761,Online
+1640,468892,Print
+1641,462185,"Radio, TV"
+1642,82002,"Online, TV"
+1643,150585,TV
+1644,308330,Social Media
+1645,491202,"Print, Social Media"
+1646,377347,"Social Media, Online, Print"
+1647,418251,"Social Media, Print"
+1648,191400,"Social Media, Outdoor, Print"
+1649,148511,TV
+1650,151683,"Outdoor, Social Media, Radio"
+1651,267477,"Online, Radio"
+1652,436316,Social Media
+1653,147366,"Print, Outdoor, Social Media"
+1654,306643,Radio
+1655,413958,"Print, Online, TV"
+1656,275160,"Online, Radio, TV"
+1657,237606,"Print, Radio, Social Media"
+1658,205939,Outdoor
+1659,320202,"Social Media, Radio"
+1660,417961,Online
+1661,498259,"Print, Social Media, Radio"
+1662,441212,"Social Media, Print"
+1663,253738,"Social Media, Print, Radio"
+1664,85659,"Print, Outdoor, Radio"
+1665,104242,"Social Media, Outdoor"
+1666,63196,"Radio, TV"
+1667,213198,"Radio, Online"
+1668,266698,Outdoor
+1669,419274,Outdoor
+1670,88580,"Print, Online"
+1671,152654,Social Media
+1672,279793,"Online, Radio, TV"
+1673,432399,"Online, TV, Print"
+1674,89438,"Radio, Print"
+1675,159546,"Print, Online, TV"
+1676,294757,"Social Media, Outdoor"
+1677,195964,"Print, TV, Outdoor"
+1678,496579,"Print, TV"
+1679,253460,"Social Media, Outdoor"
+1680,460111,"Social Media, Outdoor"
+1681,473400,"Outdoor, Social Media, Online"
+1682,166745,Print
+1683,196925,"Online, Social Media"
+1684,195862,"Print, Social Media"
+1685,246340,"Radio, Online, Social Media"
+1686,78418,"Outdoor, Online, Radio"
+1687,413309,"Outdoor, TV, Print"
+1688,108884,Outdoor
+1689,452149,"Print, Outdoor, Radio"
+1690,309462,Online
+1691,266669,"Radio, Social Media"
+1692,347355,"Radio, Print"
+1693,469895,"TV, Radio, Online"
+1694,183500,"Outdoor, Print, Online"
+1695,171584,"Online, Social Media"
+1696,216445,Outdoor
+1697,269064,"Online, Print, Social Media"
+1698,84067,"TV, Print, Online"
+1699,355994,Online
+1700,284403,Outdoor
+1701,292963,"Radio, Outdoor, TV"
+1702,162341,Print
+1703,428270,"Radio, Social Media, TV"
+1704,229127,"Radio, Print, Social Media"
+1705,343518,"TV, Outdoor, Online"
+1706,158027,"Online, Social Media, TV"
+1707,417332,"TV, Outdoor, Radio"
+1708,184872,Social Media
+1709,464759,"Social Media, Online"
+1710,254657,"Online, Social Media, Radio"
+1711,115318,"TV, Print, Outdoor"
+1712,325037,Online
+1713,300485,"Online, Radio"
+1714,239645,Social Media
+1715,418870,"TV, Social Media"
+1716,239580,"Outdoor, Online"
+1717,111300,"Social Media, Online"
+1718,62862,"Print, TV, Outdoor"
+1719,451473,Social Media
+1720,260016,Online
+1721,303333,"Social Media, Outdoor, Online"
+1722,101633,"Print, TV, Radio"
+1723,270236,Print
+1724,290014,TV
+1725,259364,TV
+1726,479354,"Print, Radio"
+1727,307123,Social Media
+1728,488474,Social Media
+1729,119000,"Online, TV"
+1730,461385,Online
+1731,298815,"TV, Print, Social Media"
+1732,183261,"Outdoor, Social Media, Print"
+1733,385584,Online
+1734,300318,"Print, Radio"
+1735,309054,"Social Media, Radio, Print"
+1736,127373,"Online, Outdoor"
+1737,355973,Online
+1738,182363,Print
+1739,210094,"Radio, Print, TV"
+1740,457959,TV
+1741,130774,"Radio, Social Media, TV"
+1742,448990,"TV, Online, Outdoor"
+1743,275188,"Print, TV, Outdoor"
+1744,130330,"TV, Online"
+1745,415219,"Outdoor, Online"
+1746,343624,Outdoor
+1747,206069,"Radio, Social Media, Print"
+1748,185327,Outdoor
+1749,239424,Outdoor
+1750,111296,"Radio, Social Media, Print"
+1751,414162,Radio
+1752,175395,"Online, Radio, Print"
+1753,422090,"TV, Online, Print"
+1754,379087,"Print, Outdoor, Social Media"
+1755,473826,"Outdoor, Print, TV"
+1756,94614,"Radio, Social Media, Outdoor"
+1757,207132,Social Media
+1758,330748,Online
+1759,436360,Print
+1760,120033,Print
+1761,437629,Online
+1762,80139,"Radio, Online"
+1763,263461,"Social Media, TV"
+1764,88000,"Online, Outdoor"
+1765,117442,Print
+1766,398714,"Online, Print"
+1767,58384,"Social Media, Online"
+1768,299914,"Social Media, Radio"
+1769,94236,"TV, Print, Online"
+1770,415068,Outdoor
+1771,413675,Online
+1772,366256,"Online, Outdoor"
+1773,390172,"Social Media, TV"
+1774,315850,Social Media
+1775,268471,"Online, Print"
+1776,234565,"TV, Outdoor, Radio"
+1777,347593,"Social Media, Online, Outdoor"
+1778,222260,"Radio, Print, Outdoor"
+1779,51256,"Radio, TV, Social Media"
+1780,95337,TV
+1781,343317,Outdoor
+1782,214215,"Print, TV"
+1783,495298,"Print, Social Media"
+1784,209264,"Social Media, Radio"
+1785,98791,"Online, Social Media, Outdoor"
+1786,197772,"Outdoor, TV"
+1787,359082,Online
+1788,287724,Outdoor
+1789,324633,"Outdoor, Online"
+1790,100057,Outdoor
+1791,422142,"TV, Social Media, Print"
+1792,456074,"Online, TV, Radio"
+1793,115407,Print
+1794,331762,"TV, Online"
+1795,153394,Outdoor
+1796,132023,"Outdoor, Social Media"
+1797,142056,"TV, Outdoor, Social Media"
+1798,284594,"TV, Radio"
+1799,448655,Social Media
+1800,418372,"Online, Print, TV"
+1801,114523,TV
+1802,279464,"Print, Online"
+1803,117898,"Social Media, TV"
+1804,247122,"Radio, TV"
+1805,303137,"Outdoor, TV"
+1806,415211,"Print, Social Media"
+1807,437587,"Print, Outdoor, Social Media"
+1808,62465,"TV, Radio"
+1809,360147,TV
+1810,234572,"Print, Social Media, TV"
+1811,272729,Outdoor
+1812,149829,Radio
+1813,65421,"Social Media, Print"
+1814,425926,"Social Media, Outdoor"
+1815,153783,Online
+1816,446134,"Print, Outdoor, Social Media"
+1817,81366,Print
+1818,233795,"TV, Print, Outdoor"
+1819,384056,"Social Media, Outdoor, Radio"
+1820,165536,"Outdoor, TV"
+1821,485336,Print
+1822,336873,Outdoor
+1823,147827,"Radio, Social Media"
+1824,407125,Print
+1825,493056,TV
+1826,162092,Online
+1827,420127,"Radio, Outdoor"
+1828,489769,"Outdoor, Radio, TV"
+1829,149329,Outdoor
+1830,155538,"Radio, Online, TV"
+1831,372701,Online
+1832,477797,"TV, Social Media"
+1833,362874,"Radio, Outdoor, TV"
+1834,277076,"Outdoor, Print, Social Media"
+1835,97353,"Print, Outdoor"
+1836,465969,"Online, Social Media, Print"
+1837,81095,"Print, Social Media"
+1838,145192,"Social Media, Online"
+1839,252836,Radio
+1840,275280,Outdoor
+1841,74830,"Print, Social Media, Outdoor"
+1842,87034,TV
+1843,106306,"Outdoor, Social Media, Online"
+1844,67863,TV
+1845,489851,"Online, Radio"
+1846,157077,Online
+1847,445785,"Radio, Outdoor, Online"
+1848,402951,"Social Media, Outdoor"
+1849,367648,"Outdoor, Print"
+1850,346062,Print
+1851,274378,Print
+1852,303723,Outdoor
+1853,450796,"Print, Online, Radio"
+1854,399886,Outdoor
+1855,153872,"Social Media, TV"
+1856,96904,"Radio, Online"
+1857,182181,"Online, TV, Outdoor"
+1858,109637,"Online, Outdoor, Radio"
+1859,479508,"Radio, Social Media"
+1860,222230,Outdoor
+1861,127953,"TV, Online, Social Media"
+1862,330066,"Outdoor, Radio"
+1863,229204,"Online, Outdoor, TV"
+1864,148083,"TV, Online, Print"
+1865,75952,TV
+1866,91611,"Print, Radio, Online"
+1867,303493,"Radio, Print, Outdoor"
+1868,387656,Print
+1869,466603,Social Media
+1870,313445,"Online, Outdoor"
+1871,343721,"TV, Online"
+1872,158894,"Radio, Social Media, Outdoor"
+1873,173463,"Print, TV"
+1874,237904,Radio
+1875,440931,Social Media
+1876,245907,"Radio, Social Media"
+1877,157836,"Radio, Social Media"
+1878,463774,"Radio, Print, Online"
+1879,235146,"Social Media, Outdoor"
+1880,85780,"Outdoor, Social Media, Print"
+1881,295464,Social Media
+1882,331896,TV
+1883,479923,"Online, Print"
+1884,412969,"Print, Radio"
+1885,95501,"Radio, Outdoor, Print"
+1886,280366,"Social Media, TV"
+1887,245351,"TV, Outdoor"
+1888,227050,"TV, Online, Radio"
+1889,112916,Print
+1890,218902,"Social Media, Online, Print"
+1891,261540,Online
+1892,148493,Online
+1893,309135,"TV, Print, Outdoor"
+1894,149577,Outdoor
+1895,104593,TV
+1896,492793,Social Media
+1897,359780,"Social Media, TV"
+1898,317659,"Radio, Online"
+1899,197377,Outdoor
+1900,143753,Radio
+1901,109173,"Online, TV, Social Media"
+1902,78181,Social Media
+1903,364871,"Print, Online"
+1904,174291,"Print, Social Media"
+1905,193156,"Online, Radio"
+1906,122446,TV
+1907,102724,"Print, Outdoor, Social Media"
+1908,272748,Online
+1909,377382,"Print, Radio, TV"
+1910,495920,Outdoor
+1911,202774,"Outdoor, Online, Social Media"
+1912,348727,Social Media
+1913,102230,Print
+1914,300054,"TV, Radio, Online"
+1915,283137,"TV, Social Media, Radio"
+1916,64426,"TV, Outdoor"
+1917,267344,"Print, Social Media, TV"
+1918,272945,"Radio, TV, Print"
+1919,217409,"Print, Online, TV"
+1920,308096,Radio
+1921,70504,Print
+1922,430001,"Print, TV, Social Media"
+1923,284231,TV
+1924,64467,"TV, Social Media"
+1925,492696,"Outdoor, Print"
+1926,221789,Print
+1927,494028,"Social Media, TV"
+1928,131149,Online
+1929,63487,Social Media
+1930,371023,"Outdoor, Social Media, Print"
+1931,475441,"Print, Online"
+1932,84916,"Print, Outdoor"
+1933,380987,Print
+1934,81143,Social Media
+1935,407258,"Outdoor, Social Media, Online"
+1936,311569,"Radio, TV"
+1937,401821,Social Media
+1938,217167,Print
+1939,457423,"Social Media, Online"
+1940,186198,"TV, Radio"
+1941,177442,Online
+1942,482285,"Online, TV, Print"
+1943,105267,"Print, Radio, Online"
+1944,316651,TV
+1945,308303,Radio
+1946,156532,"Radio, Social Media, TV"
+1947,192686,"TV, Online"
+1948,178965,"Radio, Outdoor"
+1949,430730,"Online, Outdoor"
+1950,225299,Online
+1951,211416,"Print, Online, Social Media"
+1952,336524,"Outdoor, Print"
+1953,272978,"Radio, TV"
+1954,241688,Radio
+1955,369239,Print
+1956,235679,"TV, Radio, Online"
+1957,149971,"TV, Outdoor"
+1958,383831,"Outdoor, Social Media"
+1959,80516,"Outdoor, Online, Radio"
+1960,499854,Social Media
+1961,318484,Radio
+1962,147336,"Online, Radio, Print"
+1963,139182,"Radio, TV"
+1964,173172,"Online, Print"
+1965,445672,"Social Media, Print"
+1966,422010,Outdoor
+1967,115038,"Radio, Online, Social Media"
+1968,320018,Outdoor
+1969,459906,"Print, Radio"
+1970,379910,"Social Media, Print"
+1971,314356,"TV, Social Media, Outdoor"
+1972,143884,"Print, TV, Online"
+1973,474588,Radio
+1974,451312,"Radio, Outdoor, Online"
+1975,194551,Outdoor
+1976,273958,"Online, Outdoor"
+1977,86828,"Online, Radio, Outdoor"
+1978,334155,Social Media
+1979,74471,"TV, Radio"
+1980,457708,"Online, Social Media, TV"
+1981,446177,"TV, Online, Social Media"
+1982,176654,"Online, Outdoor"
+1983,383922,"Print, Social Media"
+1984,247711,Social Media
+1985,430413,"Radio, Outdoor"
+1986,77661,"Social Media, Online"
+1987,277568,Outdoor
+1988,228824,"TV, Radio, Social Media"
+1989,167166,"Social Media, Radio, Online"
+1990,144176,"TV, Print, Radio"
+1991,354440,"Outdoor, Radio, Online"
+1992,140854,"Online, Outdoor, Radio"
+1993,334488,TV
+1994,225370,Print
+1995,159176,"TV, Print"
+1996,402672,"Radio, Outdoor, Social Media"
+1997,213752,"Social Media, Print, TV"
+1998,56727,"Social Media, TV"
+1999,433015,Online
+2000,191537,"TV, Outdoor, Social Media"
+2001,420041,"TV, Print, Outdoor"
+2002,295850,Outdoor
+2003,446597,Radio
+2004,238131,TV
+2005,126264,"Print, Social Media, Radio"
+2006,58103,"Radio, Outdoor"
+2007,400339,"Print, TV, Social Media"
+2008,400675,"TV, Outdoor, Radio"
+2009,138029,Outdoor
+2010,479956,Outdoor
+2011,477091,Outdoor
+2012,214475,"Print, Radio, Online"
+2013,116415,"Radio, Outdoor, Online"
+2014,177755,"TV, Online"
+2015,468189,"Radio, Print, Social Media"
+2016,324247,Online
+2017,461472,"Online, Social Media, Radio"
+2018,60268,Online
+2019,495911,"Radio, Social Media, Print"
+2020,332598,Social Media
+2021,133579,"Social Media, TV, Online"
+2022,278049,"Online, Social Media"
+2023,419043,"Online, Social Media"
+2024,113489,"Radio, Social Media, Online"
+2025,323867,"Radio, Social Media, Outdoor"
+2026,362101,TV
+2027,235770,"Radio, Print"
+2028,293720,"Radio, Social Media"
+2029,426804,"Outdoor, Print, TV"
+2030,478292,"TV, Social Media"
+2031,299385,"Radio, Print"
+2032,366181,"Outdoor, Print"
+2033,195263,"Outdoor, TV"
+2034,200326,"TV, Social Media, Outdoor"
+2035,449782,"Print, TV, Radio"
+2036,94396,"Outdoor, TV, Online"
+2037,142469,"Radio, Print"
+2038,171452,Outdoor
+2039,92460,"Social Media, Online"
+2040,350428,"TV, Outdoor"
+2041,457823,"Print, Outdoor"
+2042,62148,"Radio, TV, Outdoor"
+2043,163532,TV
+2044,464275,Online
+2045,259534,Print
+2046,448534,"Print, Radio"
+2047,474818,"Radio, Social Media"
+2048,495921,Outdoor
+2049,228072,"Social Media, Radio"
+2050,204339,"Radio, Outdoor"
+2051,386887,"Outdoor, Social Media"
+2052,317552,Social Media
+2053,346642,Online
+2054,289563,"Radio, Social Media, Online"
+2055,281364,Online
+2056,191736,Online
+2057,318020,"Social Media, Outdoor, Radio"
+2058,170697,"Social Media, Outdoor"
+2059,210046,"Radio, Print, Online"
+2060,333768,"Print, Online, Radio"
+2061,336482,"Radio, Online, Outdoor"
+2062,309703,"Outdoor, TV, Online"
+2063,353628,"Print, Radio"
+2064,235361,Social Media
+2065,317459,Print
+2066,92879,"TV, Radio"
+2067,267676,Social Media
+2068,313720,"TV, Outdoor, Online"
+2069,239993,Outdoor
+2070,57634,"Radio, Online, Social Media"
+2071,365451,"Print, Radio"
+2072,254970,"Print, TV"
+2073,120062,"Print, Radio"
+2074,487633,"Outdoor, TV, Print"
+2075,474086,"Online, TV, Print"
+2076,121409,"Outdoor, TV, Radio"
+2077,368243,Social Media
+2078,282882,"TV, Radio, Outdoor"
+2079,180184,Outdoor
+2080,357967,"Online, Outdoor"
+2081,251522,Radio
+2082,454328,"Print, TV"
+2083,366635,Print
+2084,278414,"Print, TV, Online"
+2085,253348,"TV, Social Media, Radio"
+2086,64209,"Radio, Online"
+2087,122385,TV
+2088,70284,Online
+2089,78543,"Radio, Social Media"
+2090,80192,"Online, Social Media"
+2091,56337,"TV, Outdoor"
+2092,406106,"Online, Radio, TV"
+2093,265357,Print
+2094,387116,"TV, Outdoor"
+2095,125476,"Outdoor, Radio"
+2096,428546,"TV, Online"
+2097,92348,"Radio, TV, Online"
+2098,194928,"Online, TV"
+2099,216816,"TV, Radio"
+2100,156079,"Outdoor, TV, Radio"
+2101,111787,"Outdoor, Online"
+2102,332638,Online
+2103,53820,Online
+2104,406237,"Outdoor, Online"
+2105,69044,Radio
+2106,483821,TV
+2107,440726,"Online, Social Media, Print"
+2108,236552,"Online, Radio"
+2109,114218,Print
+2110,441786,"Social Media, Radio, Online"
+2111,339867,"Radio, Outdoor"
+2112,277150,"Print, TV"
+2113,193733,"TV, Radio"
+2114,302577,"Online, Social Media, Outdoor"
+2115,236815,Outdoor
+2116,259415,Radio
+2117,430453,Online
+2118,478612,Radio
+2119,483208,"Print, Online, Radio"
+2120,458570,Radio
+2121,411018,"Online, Print, Outdoor"
+2122,254146,TV
+2123,89710,Radio
+2124,333775,Online
+2125,230911,"Social Media, TV"
+2126,359175,Social Media
+2127,149353,"Online, Print, Outdoor"
+2128,394128,TV
+2129,126796,"TV, Social Media"
+2130,413859,Social Media
+2131,460269,"TV, Outdoor"
+2132,455139,Social Media
+2133,205970,"Social Media, Outdoor, TV"
+2134,225415,"Social Media, Radio, Outdoor"
+2135,427147,Radio
+2136,361471,Outdoor
+2137,287006,TV
+2138,482260,Online
+2139,282319,Outdoor
+2140,159718,"Social Media, Print, TV"
+2141,355958,Outdoor
+2142,280506,"Print, Online"
+2143,141770,"Print, Online"
+2144,118594,"TV, Radio, Outdoor"
+2145,209780,"Outdoor, Radio"
+2146,486788,Online
+2147,115594,"Social Media, Outdoor, Online"
+2148,262141,"TV, Outdoor"
+2149,197117,Social Media
+2150,474359,Social Media
+2151,219872,"Radio, Outdoor, Social Media"
+2152,151815,"Social Media, Outdoor"
+2153,265199,TV
+2154,119159,"Social Media, Print, Outdoor"
+2155,220748,Social Media
+2156,379608,TV
+2157,319704,"Social Media, TV, Outdoor"
+2158,54925,Online
+2159,274063,"Outdoor, TV, Print"
+2160,415915,"Outdoor, Online, TV"
+2161,303260,"Online, Print, Outdoor"
+2162,261680,Online
+2163,236784,Print
+2164,291494,Social Media
+2165,83288,Radio
+2166,409850,Outdoor
+2167,435446,Social Media
+2168,316545,Outdoor
+2169,490548,Print
+2170,299851,Social Media
+2171,62224,"Social Media, Print"
+2172,258734,"Outdoor, Print"
+2173,229948,"Outdoor, Online, Print"
+2174,137342,Outdoor
+2175,290501,Online
+2176,254654,"Print, Radio, TV"
+2177,127021,Radio
+2178,277745,Social Media
+2179,425493,"Online, TV, Print"
+2180,279165,"TV, Outdoor, Radio"
+2181,147840,Radio
+2182,358650,"Social Media, Outdoor"
+2183,441410,"Radio, Print"
+2184,205309,"Social Media, TV, Outdoor"
+2185,81980,"Print, TV"
+2186,461679,TV
+2187,356999,"Radio, Online, Social Media"
+2188,496148,"Print, Social Media, Radio"
+2189,362545,"Online, Print, Outdoor"
+2190,105895,Radio
+2191,244915,Social Media
+2192,69288,Outdoor
+2193,203672,"Online, Radio, Social Media"
+2194,403382,Outdoor
+2195,300033,"Social Media, TV, Radio"
+2196,256523,TV
+2197,431529,Online
+2198,129697,"Radio, Outdoor"
+2199,292381,"Social Media, Outdoor, TV"
+2200,341322,"TV, Print, Radio"
+2201,466595,Radio
+2202,123647,Print
+2203,368009,"Radio, Social Media"
+2204,70620,"Radio, Print, Outdoor"
+2205,305268,"Online, TV"
+2206,340245,"Online, Outdoor"
+2207,427965,"Social Media, Outdoor"
+2208,195724,Online
+2209,363512,Radio
+2210,91713,TV
+2211,150150,"Print, Radio"
+2212,398072,"Radio, Print, TV"
+2213,451694,TV
+2214,57312,"Social Media, TV"
+2215,124892,"Outdoor, Social Media"
+2216,144573,"Outdoor, Radio, Online"
+2217,283725,"Online, TV"
+2218,119380,"Print, TV"
+2219,489229,"TV, Outdoor, Online"
+2220,224538,"Outdoor, Radio"
+2221,114268,Print
+2222,398405,"Outdoor, TV"
+2223,302815,"Social Media, Outdoor, TV"
+2224,461346,Print
+2225,471018,"Social Media, Radio, Print"
+2226,435149,"Outdoor, Social Media, TV"
+2227,303953,"Print, TV"
+2228,150170,"TV, Radio"
+2229,242862,"Outdoor, TV"
+2230,267146,"Online, TV"
+2231,488986,Outdoor
+2232,163675,"Print, Online, Social Media"
+2233,245627,"Social Media, TV, Radio"
+2234,303055,"Online, Social Media, Radio"
+2235,226011,Print
+2236,104279,"Outdoor, Online"
+2237,450699,"TV, Social Media, Online"
+2238,410546,"Outdoor, Print"
+2239,165423,TV
+2240,251364,Social Media
+2241,380866,"Print, Outdoor, Radio"
+2242,488107,"TV, Radio"
+2243,125380,Social Media
+2244,337094,"Online, Outdoor, Social Media"
+2245,417898,Social Media
+2246,61657,"Online, Social Media"
+2247,414944,Online
+2248,405456,"Social Media, Online, Radio"
+2249,465567,"TV, Radio, Print"
+2250,87991,TV
+2251,105929,"Radio, Print, TV"
+2252,283408,"Outdoor, Online"
+2253,442231,"Print, Online"
+2254,443530,"Social Media, Print, Outdoor"
+2255,365029,Online
+2256,251934,"TV, Radio, Online"
+2257,154010,"Print, Social Media, Radio"
+2258,263606,Online
+2259,147679,"Outdoor, Print"
+2260,397859,"Outdoor, Radio, TV"
+2261,239678,"Radio, Outdoor"
+2262,292713,"Social Media, TV, Radio"
+2263,356420,"Radio, Outdoor"
+2264,286892,"TV, Online"
+2265,389889,"Radio, Social Media, Online"
+2266,403728,"Social Media, Print, Outdoor"
+2267,159230,"Social Media, Print, Outdoor"
+2268,184163,"Print, Social Media, Outdoor"
+2269,76695,Outdoor
+2270,90138,Outdoor
+2271,423264,Outdoor
+2272,146300,"Social Media, TV, Print"
+2273,425599,"Print, Online"
+2274,493645,"Social Media, Online"
+2275,159265,"Social Media, Radio, Print"
+2276,257168,"Outdoor, Radio, Print"
+2277,291678,TV
+2278,474268,Print
+2279,130384,Social Media
+2280,426191,"TV, Radio, Online"
+2281,481002,"TV, Outdoor"
+2282,299487,"Radio, Outdoor"
+2283,118577,Online
+2284,200212,Online
+2285,481592,"Outdoor, Print"
+2286,125700,"Outdoor, Online, Print"
+2287,269435,"Print, Social Media, Radio"
+2288,135437,Outdoor
+2289,456856,"TV, Social Media"
+2290,315696,"Online, Print, Radio"
+2291,465506,"Radio, Outdoor, Print"
+2292,475777,"Radio, TV"
+2293,270036,"TV, Radio, Online"
+2294,471696,Print
+2295,50319,"TV, Online, Radio"
+2296,136448,"Social Media, Radio"
+2297,380299,"Print, Outdoor"
+2298,286920,"Online, Print, Social Media"
+2299,495928,"TV, Outdoor"
+2300,402927,"TV, Online, Radio"
+2301,348856,"Radio, Online, Outdoor"
+2302,460476,"Outdoor, Print"
+2303,201740,"TV, Radio, Social Media"
+2304,125410,"Outdoor, TV"
+2305,296186,Print
+2306,157313,"TV, Online, Outdoor"
+2307,154574,"TV, Radio, Print"
+2308,187835,"Print, TV, Radio"
+2309,353812,"Radio, Outdoor"
+2310,60616,Print
+2311,432495,"Online, Social Media, Radio"
+2312,325421,"Radio, Social Media"
+2313,187004,"Outdoor, Radio, Online"
+2314,100897,"TV, Social Media, Radio"
+2315,405511,TV
+2316,246395,TV
+2317,245888,"Social Media, TV"
+2318,261604,TV
+2319,236277,"Social Media, TV, Online"
+2320,280983,"Radio, Online, Outdoor"
+2321,333794,Print
+2322,243956,"Social Media, Online"
+2323,487761,"TV, Radio"
+2324,228919,Online
+2325,146498,"TV, Radio"
+2326,491048,"Outdoor, Social Media"
+2327,183250,"Online, Print, Outdoor"
+2328,329364,Social Media
+2329,422870,"Online, Radio, Social Media"
+2330,51780,Social Media
+2331,177275,"Print, Outdoor"
+2332,289318,"Online, Social Media, Print"
+2333,255147,TV
+2334,82759,"Online, Outdoor, TV"
+2335,251175,"Social Media, TV, Outdoor"
+2336,97677,Radio
+2337,162441,"Online, TV"
+2338,386955,"Social Media, Radio"
+2339,130357,Radio
+2340,349376,"Social Media, Outdoor, Online"
+2341,487819,Outdoor
+2342,161142,TV
+2343,166796,Outdoor
+2344,478892,"Social Media, Print, TV"
+2345,349313,"Radio, Social Media"
+2346,396547,"Outdoor, Social Media, Radio"
+2347,406181,"Online, Radio"
+2348,378436,"Print, Radio"
+2349,489559,"Print, Radio"
+2350,173635,"Online, TV, Print"
+2351,283266,Radio
+2352,348835,"Print, Radio, Outdoor"
+2353,368268,"TV, Print"
+2354,136470,"Radio, TV"
+2355,443978,"TV, Radio"
+2356,416635,Social Media
+2357,168876,"Online, TV"
+2358,294785,Outdoor
+2359,182619,Social Media
+2360,214649,"Radio, TV"
+2361,290106,"Online, Radio, Social Media"
+2362,292767,"Outdoor, Online, Social Media"
+2363,289426,"Print, Social Media"
+2364,294917,Outdoor
+2365,336259,"Social Media, Print"
+2366,57068,TV
+2367,112920,Social Media
+2368,261625,"Radio, Outdoor"
+2369,368776,Radio
+2370,279170,"TV, Radio"
+2371,333024,"TV, Radio, Print"
+2372,486812,"Print, Outdoor"
+2373,378530,Online
+2374,472940,"Online, Social Media, Outdoor"
+2375,58552,"Radio, Social Media"
+2376,251221,"Radio, Outdoor, Print"
+2377,209532,"Social Media, TV"
+2378,367486,Print
+2379,468246,"Social Media, Outdoor, Print"
+2380,68127,"Social Media, TV, Print"
+2381,75787,Radio
+2382,352776,"Social Media, Outdoor, Radio"
+2383,205725,"Social Media, Radio"
+2384,141359,"TV, Social Media, Outdoor"
+2385,479621,Radio
+2386,56318,"TV, Print, Radio"
+2387,173291,"Print, Radio"
+2388,199263,"Social Media, TV"
+2389,402252,"Outdoor, Radio"
+2390,302783,Online
+2391,197768,"Social Media, Radio"
+2392,126389,"Print, Outdoor"
+2393,148046,TV
+2394,67403,"Online, Outdoor"
+2395,426589,"Online, Social Media"
+2396,102733,"TV, Print, Social Media"
+2397,420371,"Online, Radio, TV"
+2398,112629,"TV, Social Media, Outdoor"
+2399,457659,Outdoor
+2400,355330,"TV, Social Media"
+2401,208415,Radio
+2402,226712,Online
+2403,178052,"Outdoor, Social Media, Radio"
+2404,145081,Outdoor
+2405,459981,"Social Media, Online"
+2406,132989,Outdoor
+2407,129177,Social Media
+2408,212119,Online
+2409,492943,Radio
+2410,259213,Radio
+2411,209906,Social Media
+2412,499348,Social Media
+2413,383019,"Social Media, TV, Outdoor"
+2414,475081,Social Media
+2415,162015,"TV, Outdoor"
+2416,389388,Online
+2417,450791,"Print, Social Media"
+2418,288213,"TV, Social Media, Radio"
+2419,240747,"Radio, TV, Outdoor"
+2420,183181,TV
+2421,305274,"Online, Outdoor"
+2422,136463,"Outdoor, TV"
+2423,244331,"Outdoor, TV, Radio"
+2424,357144,"Social Media, Online"
+2425,343560,Radio
+2426,364952,"Online, Outdoor"
+2427,313948,"TV, Social Media, Online"
+2428,51184,"Social Media, Outdoor, Online"
+2429,62031,"Radio, Social Media, TV"
+2430,311117,"TV, Outdoor"
+2431,484683,"Online, Radio"
+2432,137502,Online
+2433,372822,"Social Media, Radio"
+2434,244943,"Social Media, Radio"
+2435,112593,Print
+2436,64975,"Social Media, Outdoor"
+2437,371019,"Print, Outdoor"
+2438,114771,"TV, Social Media"
+2439,184293,"Print, Outdoor, TV"
+2440,230620,"Outdoor, TV"
+2441,367643,TV
+2442,224430,"Radio, Outdoor, Social Media"
+2443,223831,"Outdoor, Social Media"
+2444,407405,"TV, Social Media"
+2445,53142,Social Media
+2446,389236,"Social Media, TV"
+2447,284756,Outdoor
+2448,293757,Outdoor
+2449,205501,Social Media
+2450,91619,"Print, TV, Radio"
+2451,90875,"TV, Print, Online"
+2452,203378,Social Media
+2453,374185,TV
+2454,451241,"Radio, Outdoor"
+2455,415501,"Print, Outdoor"
+2456,409063,Radio
+2457,52580,"Outdoor, Social Media, TV"
+2458,136228,"Online, Social Media"
+2459,475290,"Outdoor, Radio"
+2460,441575,"Outdoor, Online, Print"
+2461,107029,Social Media
+2462,336275,"TV, Outdoor, Radio"
+2463,244907,Print
+2464,53458,"Outdoor, Print, Social Media"
+2465,410069,Online
+2466,474411,Outdoor
+2467,464350,"TV, Print, Social Media"
+2468,222924,"Social Media, Print"
+2469,404517,Print
+2470,274090,TV
+2471,490995,"Radio, Social Media, TV"
+2472,483479,"TV, Online"
+2473,398009,"Radio, Print"
+2474,262099,"Social Media, TV"
+2475,455872,"Outdoor, Online, TV"
+2476,150781,"Print, Social Media, Online"
+2477,146399,"Radio, TV, Print"
+2478,301206,"Print, Radio"
+2479,418571,"Online, Social Media, Outdoor"
+2480,77946,"Print, Radio, Online"
+2481,403114,"Radio, TV"
+2482,477196,"Print, Radio"
+2483,295699,Radio
+2484,146101,"TV, Print"
+2485,334252,"Print, Outdoor, Social Media"
+2486,138573,"Print, Online"
+2487,225712,Print
+2488,364834,Print
+2489,221611,"Outdoor, Print"
+2490,267965,"Print, TV, Outdoor"
+2491,295364,"Print, Radio, Outdoor"
+2492,202740,"TV, Print"
+2493,84344,"Outdoor, Print"
+2494,279904,Print
+2495,269516,"TV, Print"
+2496,241922,Online
+2497,133018,"Social Media, TV, Radio"
+2498,73534,"Outdoor, Online, Print"
+2499,421987,"TV, Social Media"
+2500,289542,Print
+2501,491131,TV
+2502,490021,"Online, Print, Outdoor"
+2503,311033,Print
+2504,270555,"Print, Online"
+2505,133903,"Radio, Online, Outdoor"
+2506,220701,TV
+2507,403444,"Outdoor, Online, TV"
+2508,483451,"Print, Social Media, TV"
+2509,319923,"TV, Print"
+2510,327599,"Print, Radio, Outdoor"
+2511,474106,"Online, Outdoor"
+2512,107124,Social Media
+2513,325328,"Print, Outdoor"
+2514,313442,TV
+2515,142293,"Outdoor, Print"
+2516,398217,"Online, Print, TV"
+2517,103641,"Radio, TV, Online"
+2518,78459,"Outdoor, Radio, Online"
+2519,268761,"Print, Outdoor, Social Media"
+2520,184875,"Online, Print"
+2521,246261,Outdoor
+2522,100666,"Radio, Outdoor, TV"
+2523,253581,Online
+2524,247822,"Radio, Print"
+2525,484947,"Outdoor, Print"
+2526,375156,TV
+2527,464213,Print
+2528,401555,Radio
+2529,404529,"TV, Social Media"
+2530,439578,Radio
+2531,165151,"Radio, Online, Outdoor"
+2532,242021,Online
+2533,443844,"TV, Online, Radio"
+2534,80114,"Print, Radio"
+2535,74807,"Outdoor, Online"
+2536,341577,"Print, TV"
+2537,459302,TV
+2538,407391,"Radio, Online"
+2539,409556,"TV, Print"
+2540,211989,"Social Media, TV"
+2541,316265,"Outdoor, Print"
+2542,397169,"Online, Social Media, Radio"
+2543,407183,"Outdoor, Online, Social Media"
+2544,311263,Social Media
+2545,410172,"TV, Print"
+2546,62123,"Online, Outdoor"
+2547,474166,"TV, Online, Outdoor"
+2548,441760,"Social Media, TV, Online"
+2549,73376,"Social Media, Online, Print"
+2550,238697,"Print, Social Media, Outdoor"
+2551,463764,"Print, Online"
+2552,280757,Radio
+2553,91153,"Social Media, Print"
+2554,484934,"Outdoor, Print, Radio"
+2555,211322,"Social Media, TV"
+2556,282311,Radio
+2557,334380,"Radio, Outdoor, TV"
+2558,424596,"Social Media, Online, Radio"
+2559,442905,Print
+2560,343891,"Social Media, Print"
+2561,476788,Outdoor
+2562,148558,Social Media
+2563,457175,TV
+2564,135542,Online
+2565,452498,"TV, Radio"
+2566,147148,"TV, Outdoor"
+2567,373662,"Social Media, TV"
+2568,417631,Print
+2569,225738,"TV, Print, Radio"
+2570,101074,Print
+2571,213130,Radio
+2572,77730,"Online, Outdoor, Social Media"
+2573,346689,Outdoor
+2574,363727,"Print, Social Media, Outdoor"
+2575,170747,"Online, Outdoor"
+2576,343217,Radio
+2577,76330,"Social Media, Radio"
+2578,64190,"Online, Outdoor"
+2579,233604,Radio
+2580,267999,TV
+2581,58375,"Online, Social Media, Print"
+2582,315462,"Online, TV"
+2583,424740,"Online, Radio, TV"
+2584,234730,"TV, Radio, Online"
+2585,386173,"Print, Online, TV"
+2586,118006,"Outdoor, Online"
+2587,288313,"Outdoor, Print"
+2588,405120,"TV, Outdoor, Print"
+2589,356918,"Online, Radio, Social Media"
+2590,400843,"Print, Social Media, TV"
+2591,374511,Outdoor
+2592,104463,"Online, Radio"
+2593,96201,"Radio, Online, Social Media"
+2594,488994,"TV, Online"
+2595,267038,TV
+2596,379578,"Radio, Social Media"
+2597,356691,"Social Media, Print, Online"
+2598,69932,"Online, Print, Outdoor"
+2599,273491,Online
+2600,284617,"Print, Online, Outdoor"
+2601,413866,"Radio, Print, TV"
+2602,482981,"Outdoor, Online"
+2603,180244,Outdoor
+2604,76483,"TV, Print"
+2605,263887,"TV, Print, Social Media"
+2606,63431,"Radio, TV"
+2607,223439,"Print, Outdoor"
+2608,172967,"Print, TV"
+2609,159339,"Social Media, Radio"
+2610,50725,"Outdoor, Radio"
+2611,162782,"TV, Outdoor"
+2612,193963,"Radio, Social Media"
+2613,459966,Radio
+2614,89716,"TV, Outdoor, Radio"
+2615,395146,"TV, Radio, Online"
+2616,376188,"Print, Online, Radio"
+2617,196813,"Online, Radio"
+2618,458143,Online
+2619,344890,"Online, Radio"
+2620,93649,"Print, Online"
+2621,141806,"Print, Outdoor"
+2622,230510,"Radio, Social Media, Print"
+2623,485282,"Print, TV, Online"
+2624,168990,Social Media
+2625,242697,"Online, Social Media"
+2626,302302,"Online, TV, Radio"
+2627,209982,"Social Media, Outdoor"
+2628,365438,TV
+2629,347401,"Outdoor, Social Media, Radio"
+2630,77183,"Social Media, Online"
+2631,242936,"TV, Online, Social Media"
+2632,401487,"Online, Radio"
+2633,337960,"Radio, Outdoor"
+2634,257084,"Online, Social Media"
+2635,378441,"Online, Outdoor"
+2636,351720,"TV, Online, Outdoor"
+2637,426924,Outdoor
+2638,72948,Online
+2639,290876,"Outdoor, TV"
+2640,347145,Radio
+2641,353948,"Print, Radio"
+2642,465097,Outdoor
+2643,235227,"Social Media, Online"
+2644,407802,"Social Media, Outdoor, Print"
+2645,403715,"TV, Radio, Print"
+2646,170988,Social Media
+2647,170733,Online
+2648,474280,Online
+2649,195981,"Online, TV, Outdoor"
+2650,236481,Radio
+2651,321778,"TV, Radio, Print"
+2652,192457,TV
+2653,347810,"Outdoor, Online, Print"
+2654,180249,"TV, Print"
+2655,287298,"Online, Social Media"
+2656,301814,Online
+2657,410254,"Print, Social Media, Radio"
+2658,437032,"Radio, Outdoor"
+2659,356718,Print
+2660,171505,Print
+2661,258736,"Print, Outdoor"
+2662,303282,"TV, Print"
+2663,184022,Print
+2664,473000,"Social Media, Print"
+2665,98881,Outdoor
+2666,425054,"Print, Social Media"
+2667,241887,TV
+2668,475479,"Social Media, Outdoor"
+2669,289644,"Social Media, Online, Outdoor"
+2670,378369,Online
+2671,380517,"Print, Outdoor"
+2672,364102,"Print, Social Media, Radio"
+2673,72220,"TV, Online, Print"
+2674,329978,TV
+2675,452664,"TV, Social Media"
+2676,429579,Outdoor
+2677,461726,"Print, TV, Online"
+2678,249974,Radio
+2679,254570,"Outdoor, Online, Print"
+2680,413684,Social Media
+2681,186561,"TV, Print, Social Media"
+2682,394283,Radio
+2683,276980,"TV, Print"
+2684,168948,"Print, Outdoor"
+2685,339657,Online
+2686,183108,"Social Media, Radio, Print"
+2687,352300,"Social Media, TV, Radio"
+2688,306188,Radio
+2689,374987,"Radio, TV"
+2690,319577,"Social Media, Outdoor, Print"
+2691,391228,"Outdoor, Radio, Print"
+2692,498295,"TV, Radio"
+2693,260495,"Outdoor, Social Media"
+2694,319213,Print
+2695,95851,Print
+2696,477684,"Radio, TV"
+2697,318352,"Radio, Print, Outdoor"
+2698,96261,"Print, Radio, TV"
+2699,230005,"Radio, Outdoor, Social Media"
+2700,86582,"Social Media, Online, Outdoor"
+2701,273740,"Radio, Online, Outdoor"
+2702,174674,"Online, Social Media"
+2703,203126,Social Media
+2704,81085,Print
+2705,393084,Outdoor
+2706,428507,"Radio, Outdoor"
+2707,113061,"Outdoor, Online, TV"
+2708,387794,Online
+2709,107856,"Social Media, Radio, Outdoor"
+2710,88494,Radio
+2711,101342,"Social Media, Online, Radio"
+2712,64303,TV
+2713,219234,"Social Media, Print"
+2714,478815,"TV, Online, Print"
+2715,454665,"Radio, Outdoor, Print"
+2716,199358,"Social Media, TV"
+2717,407591,"Online, Print, Outdoor"
+2718,421064,"Outdoor, Social Media, TV"
+2719,118426,"TV, Online"
+2720,153255,"Radio, Print, Social Media"
+2721,360723,Outdoor
+2722,168814,"Print, Social Media"
+2723,472169,"Outdoor, Online, Radio"
+2724,153821,Radio
+2725,409615,"Print, Online, Radio"
+2726,391145,"Radio, Online"
+2727,276691,Radio
+2728,168474,TV
+2729,65237,"Online, Radio"
+2730,422773,Outdoor
+2731,219990,Outdoor
+2732,203050,Online
+2733,70022,TV
+2734,118098,"Radio, Outdoor"
+2735,215562,"Online, Radio, Outdoor"
+2736,360873,"Print, Social Media"
+2737,143298,Outdoor
+2738,123625,"Social Media, Print, Radio"
+2739,168033,"Print, TV"
+2740,177545,"Radio, Social Media, TV"
+2741,234492,Social Media
+2742,212421,"Outdoor, Radio"
+2743,83266,"Online, Social Media"
+2744,328060,"TV, Online"
+2745,108708,Outdoor
+2746,440794,"Online, Radio, Print"
+2747,436781,Social Media
+2748,82574,"TV, Outdoor"
+2749,235895,"Social Media, TV, Outdoor"
+2750,264597,"TV, Outdoor"
+2751,498141,"Radio, Outdoor, Print"
+2752,163067,"Print, Radio, TV"
+2753,336178,"Print, Outdoor"
+2754,255690,Social Media
+2755,395867,"TV, Print, Online"
+2756,161797,Online
+2757,356415,"Outdoor, TV, Online"
+2758,108451,"Radio, Print"
+2759,56807,"Print, Social Media, Radio"
+2760,58200,"TV, Print"
+2761,271710,"Radio, Online"
+2762,396830,"Online, Outdoor, Social Media"
+2763,309932,"Outdoor, Social Media, Online"
+2764,66345,"Outdoor, Print"
+2765,298435,"Online, Radio, Outdoor"
+2766,100964,TV
+2767,484429,"TV, Radio"
+2768,208658,"Outdoor, Print, Radio"
+2769,276537,"Social Media, Online, Print"
+2770,202432,"Radio, Online"
+2771,260192,"Online, Radio"
+2772,481307,"Outdoor, Radio"
+2773,167237,Social Media
+2774,373137,Outdoor
+2775,389879,"Radio, Social Media, TV"
+2776,135775,Print
+2777,378117,"TV, Print"
+2778,341598,"Print, Radio"
+2779,180969,"Print, Online"
+2780,285210,"Radio, Online, Outdoor"
+2781,315493,TV
+2782,426449,TV
+2783,106172,"Radio, Outdoor, Print"
+2784,487389,"Print, Online, Outdoor"
+2785,396121,Online
+2786,290739,"Outdoor, Radio"
+2787,399303,"Radio, TV, Online"
+2788,379922,"Radio, Social Media"
+2789,257058,"Radio, Outdoor"
+2790,201223,"Outdoor, Online"
+2791,494871,Social Media
+2792,447972,Social Media
+2793,477914,"Print, TV, Outdoor"
+2794,71812,Online
+2795,416852,"Online, Radio"
+2796,451052,Radio
+2797,264602,"TV, Outdoor, Print"
+2798,450921,Radio
+2799,95395,"Radio, TV"
+2800,77214,Social Media
+2801,181201,"Online, Print, TV"
+2802,61809,TV
+2803,357795,Social Media
+2804,467136,"Print, Online"
+2805,182776,"TV, Social Media, Print"
+2806,346822,Online
+2807,260622,Print
+2808,164776,"Radio, Online, Social Media"
+2809,463353,"Social Media, Print"
+2810,481061,"TV, Outdoor, Social Media"
+2811,110640,Online
+2812,395137,"Online, Radio"
+2813,134968,"TV, Online"
+2814,269701,"Print, TV, Radio"
+2815,212443,"Radio, TV, Outdoor"
+2816,159795,"Outdoor, Online, Radio"
+2817,354114,"Social Media, Online, TV"
+2818,434928,"Outdoor, Print, TV"
+2819,401526,"TV, Outdoor, Print"
+2820,375028,"Social Media, TV"
+2821,79816,"Outdoor, Online"
+2822,93842,"Outdoor, Radio"
+2823,259173,"Outdoor, Radio"
+2824,300093,"Print, Social Media"
+2825,375524,"Online, TV, Outdoor"
+2826,210135,"Online, Radio"
+2827,60317,"Outdoor, Social Media"
+2828,66246,"Online, Social Media, TV"
+2829,434674,"Print, Online, Outdoor"
+2830,107849,"Online, Print, Outdoor"
+2831,471602,"Social Media, Radio"
+2832,199683,"Radio, Print"
+2833,312644,Social Media
+2834,125878,"TV, Print, Online"
+2835,254317,Radio
+2836,444114,"Print, Outdoor, Radio"
+2837,492860,"Online, Social Media, Print"
+2838,394944,"TV, Radio, Print"
+2839,394078,"Social Media, Outdoor, Print"
+2840,448391,"Social Media, Radio, TV"
+2841,160202,"Online, TV, Outdoor"
+2842,381320,"Print, Social Media"
+2843,301251,"Online, Print"
+2844,167757,"Radio, Online, TV"
+2845,74963,"Print, Outdoor"
+2846,140369,Outdoor
+2847,342586,"Radio, Outdoor, Social Media"
+2848,306431,"Online, TV"
+2849,81172,"Social Media, Outdoor, TV"
+2850,303040,Online
+2851,225792,"Outdoor, Radio, Print"
+2852,56719,Outdoor
+2853,459271,"Social Media, Radio, Outdoor"
+2854,166269,Print
+2855,299028,Print
+2856,315115,"Social Media, Online"
+2857,274464,"Radio, Outdoor, Online"
+2858,157812,"Radio, TV, Outdoor"
+2859,233315,"Radio, Print, Social Media"
+2860,180649,Radio
+2861,245100,"Print, Radio"
+2862,87197,"TV, Radio"
+2863,124677,"Social Media, TV, Outdoor"
+2864,111883,"Social Media, Print"
+2865,317751,Radio
+2866,345153,"Social Media, Print, Radio"
+2867,461280,"Online, Outdoor"
+2868,167973,Outdoor
+2869,227070,Online
+2870,330094,"Social Media, Online"
+2871,487290,"Online, Social Media, Print"
+2872,226183,Print
+2873,180327,"Online, Social Media, Outdoor"
+2874,224508,"Outdoor, Online, Social Media"
+2875,189185,"Radio, Social Media, TV"
+2876,88290,"Social Media, Outdoor, TV"
+2877,205693,"Online, Radio"
+2878,313396,TV
+2879,132257,Online
+2880,425148,"Social Media, Online"
+2881,380912,Print
+2882,301363,Online
+2883,381872,"Radio, Outdoor"
+2884,192500,Radio
+2885,140061,Radio
+2886,429023,"Online, TV"
+2887,418457,"Outdoor, Print, Social Media"
+2888,381179,"Radio, TV, Print"
+2889,165339,"Social Media, Online"
+2890,204646,Online
+2891,221259,"TV, Outdoor, Radio"
+2892,132907,TV
+2893,392017,"Social Media, Radio"
+2894,133113,"Social Media, Outdoor"
+2895,149788,"TV, Social Media"
+2896,71678,"TV, Print"
+2897,348507,"Outdoor, Online"
+2898,468049,"Online, Social Media"
+2899,267694,"Online, Outdoor, Radio"
+2900,454008,"Radio, Online, Outdoor"
+2901,428450,"TV, Outdoor"
+2902,407616,"Social Media, Print"
+2903,125438,"Outdoor, TV, Online"
+2904,219794,"Print, Outdoor, Online"
+2905,348728,"Print, Radio, Outdoor"
+2906,204960,"Radio, TV"
+2907,369901,Radio
+2908,179281,"Outdoor, Print"
+2909,226677,Online
+2910,379180,"Outdoor, TV, Print"
+2911,103048,"Print, Radio"
+2912,404052,"Radio, Outdoor"
+2913,370658,Online
+2914,252333,Print
+2915,246886,"Online, Radio, Print"
+2916,457999,Print
+2917,372323,"Outdoor, Social Media"
+2918,329075,Social Media
+2919,438880,"Print, Online"
+2920,199226,TV
+2921,179015,Social Media
+2922,144415,"Online, Radio"
+2923,284105,Online
+2924,494643,"Online, Social Media, TV"
+2925,467806,TV
+2926,254887,TV
+2927,100103,"Online, Radio, Outdoor"
+2928,443566,"TV, Print"
+2929,465172,"TV, Print"
+2930,127115,Radio
+2931,447556,Online
+2932,250826,"Print, Online, TV"
+2933,55249,"TV, Outdoor, Radio"
+2934,474406,Online
+2935,69261,"Online, Social Media, TV"
+2936,65574,"Radio, TV, Online"
+2937,483565,Outdoor
+2938,146564,"Social Media, Print, TV"
+2939,300034,"Online, Social Media"
+2940,474215,"Social Media, Print, Online"
+2941,473004,"Print, Social Media, Outdoor"
+2942,128352,TV
+2943,281096,"Radio, Print"
+2944,53129,Radio
+2945,90672,"Print, Social Media"
+2946,476667,"Outdoor, TV, Radio"
+2947,236822,"Online, Radio, Outdoor"
+2948,117586,"Print, Online, Outdoor"
+2949,334132,"TV, Online, Radio"
+2950,127999,"Online, Social Media"
+2951,491064,Social Media
+2952,351882,Print
+2953,215905,"TV, Radio, Social Media"
+2954,221518,Radio
+2955,462620,TV
+2956,452761,"Radio, Social Media"
+2957,477492,"Social Media, Outdoor"
+2958,254142,Outdoor
+2959,432837,Online
+2960,268176,Outdoor
+2961,334836,"Print, Radio, TV"
+2962,278334,"Social Media, Online, TV"
+2963,323701,"Social Media, TV, Online"
+2964,279262,"Print, Outdoor"
+2965,119679,Outdoor
+2966,98774,Online
+2967,473493,"TV, Online, Radio"
+2968,279380,"Outdoor, Radio"
+2969,473834,Outdoor
+2970,358617,"Social Media, Radio"
+2971,90038,"Social Media, Radio"
+2972,140703,Print
+2973,395483,"TV, Online"
+2974,130019,Social Media
+2975,53476,"TV, Radio, Print"
+2976,100295,"TV, Outdoor"
+2977,264534,"Print, Radio"
+2978,123468,"TV, Online, Radio"
+2979,70257,"Online, Print"
+2980,384617,"TV, Outdoor, Print"
+2981,487451,"Online, TV, Social Media"
+2982,490317,"TV, Radio"
+2983,454993,"Print, TV"
+2984,58633,"Radio, Print, TV"
+2985,158049,"TV, Online, Outdoor"
+2986,111962,"Print, TV"
+2987,338095,"Outdoor, Social Media, Online"
+2988,432311,TV
+2989,307356,"Print, Online"
+2990,206003,Social Media
+2991,460358,"Social Media, Print"
+2992,277332,"Online, TV"
+2993,128608,"Outdoor, Radio"
+2994,290018,"Online, Print"
+2995,58159,Outdoor
+2996,67331,"Radio, Print, TV"
+2997,332417,"Print, TV"
+2998,375471,"Online, TV, Radio"
+2999,112244,"Print, Radio"
+3000,290037,Outdoor
+3001,397684,"Social Media, Online"
+3002,447052,"Online, Print, Radio"
+3003,263310,Outdoor
+3004,104974,"Outdoor, Social Media"
+3005,81135,"Print, Social Media"
+3006,435462,"Print, Outdoor, Social Media"
+3007,84932,"Social Media, Outdoor"
+3008,418009,Online
+3009,246599,Radio
+3010,246397,"Online, Print"
+3011,283365,Radio
+3012,111102,"Social Media, Print, Radio"
+3013,384145,"TV, Online, Print"
+3014,185002,"Social Media, Online, Radio"
+3015,319001,Online
+3016,52400,"Online, Print"
+3017,176683,"Print, Social Media"
+3018,68216,"Outdoor, Print, TV"
+3019,191125,Print
+3020,106784,Online
+3021,81519,"TV, Print"
+3022,431590,Social Media
+3023,214205,"Outdoor, Print, Social Media"
+3024,421401,"Print, Social Media"
+3025,451697,"Print, Radio, Online"
+3026,277724,"Online, TV"
+3027,305525,"Outdoor, Print"
+3028,340951,"Radio, Print, Online"
+3029,340119,"Online, Radio"
+3030,288579,"Outdoor, TV, Print"
+3031,317457,"Online, Outdoor, Social Media"
+3032,248496,Social Media
+3033,462265,"Outdoor, TV, Radio"
+3034,374586,"Outdoor, TV"
+3035,191715,Print
+3036,200762,"TV, Radio, Social Media"
+3037,254852,"TV, Radio"
+3038,64245,"Online, Outdoor"
+3039,496121,TV
+3040,260529,Outdoor
+3041,398777,"Online, Outdoor, TV"
+3042,121183,"Outdoor, Social Media"
+3043,324145,"Outdoor, TV, Online"
+3044,221768,"Outdoor, Radio, Social Media"
+3045,450467,Outdoor
+3046,469642,Print
+3047,331168,Outdoor
+3048,77422,"Print, TV"
+3049,259974,"Print, Online, Outdoor"
+3050,57618,"Radio, Social Media, Print"
+3051,283105,"Social Media, Print"
+3052,275638,"Outdoor, Online"
+3053,237768,"Radio, Outdoor, Social Media"
+3054,201653,"Outdoor, Print, Radio"
+3055,310534,"Online, Radio, Social Media"
+3056,129555,"Radio, Print, TV"
+3057,61846,"TV, Online, Radio"
+3058,404013,"Print, Social Media, Outdoor"
+3059,403517,TV
+3060,310731,"Print, Outdoor, Radio"
+3061,423540,Social Media
+3062,280825,"Outdoor, TV"
+3063,52946,"Radio, TV, Outdoor"
+3064,116725,Outdoor
+3065,256806,"Print, Radio, TV"
+3066,438024,"Outdoor, Radio"
+3067,151512,"TV, Print"
+3068,65320,Print
+3069,235626,Online
+3070,80025,"Radio, Print, Outdoor"
+3071,297692,TV
+3072,75030,"Print, Online, Social Media"
+3073,57482,"Radio, TV, Print"
+3074,474462,"Radio, Social Media"
+3075,349383,Radio
+3076,103770,"Online, Print"
+3077,300295,Online
+3078,166273,"Radio, Outdoor"
+3079,392488,"Radio, Print"
+3080,416389,"Outdoor, Print, Radio"
+3081,278423,"Print, Outdoor, TV"
+3082,234273,"Outdoor, Online"
+3083,192738,"Outdoor, Social Media, Radio"
+3084,64778,"TV, Radio, Social Media"
+3085,302326,"Online, Outdoor"
+3086,279017,Social Media
+3087,145861,Social Media
+3088,289423,"Outdoor, Online, TV"
+3089,260434,"TV, Print"
+3090,167305,"Social Media, Online"
+3091,384394,"TV, Print, Radio"
+3092,160646,TV
+3093,252968,"Radio, Outdoor"
+3094,290039,Radio
+3095,415107,"Social Media, Radio"
+3096,239247,"Outdoor, Print"
+3097,143149,"Social Media, TV"
+3098,56668,"Social Media, Online"
+3099,163427,Radio
+3100,387737,"Print, Radio"
+3101,419213,"Online, Social Media, Outdoor"
+3102,320310,Radio
+3103,476748,Online
+3104,284981,"TV, Online"
+3105,265696,"Social Media, Print"
+3106,424777,"Print, Radio, Social Media"
+3107,125148,"Online, Social Media, Radio"
+3108,56813,Online
+3109,446809,Online
+3110,290350,"Outdoor, Online, Radio"
+3111,385204,Social Media
+3112,333015,"Print, TV, Online"
+3113,348749,Online
+3114,314302,Outdoor
+3115,376340,Social Media
+3116,101071,"TV, Radio"
+3117,162916,"Online, Outdoor"
+3118,265611,"Outdoor, Radio"
+3119,372407,"Print, Radio, Social Media"
+3120,188824,"Radio, Online, Social Media"
+3121,413249,TV
+3122,79403,"Online, Outdoor"
+3123,405905,"Print, TV, Online"
+3124,364577,"Social Media, Outdoor, Online"
+3125,79368,"Outdoor, TV, Social Media"
+3126,64236,"Social Media, Outdoor, Radio"
+3127,427958,TV
+3128,115157,"Social Media, Radio, Outdoor"
+3129,163987,Outdoor
+3130,453331,"Online, TV, Outdoor"
+3131,204294,"Online, Social Media, Radio"
+3132,288696,"Online, Radio"
+3133,63957,Outdoor
+3134,306055,Print
+3135,371086,"Print, Radio"
+3136,304299,"Online, Radio, Print"
+3137,413906,"Social Media, Radio, Online"
+3138,399450,"TV, Online, Social Media"
+3139,265599,TV
+3140,340298,"Online, Radio"
+3141,174487,"Print, Social Media, Online"
+3142,211380,"Online, Radio"
+3143,329848,"Social Media, Print"
+3144,347186,TV
+3145,88411,"TV, Online, Radio"
+3146,418658,"Online, TV"
+3147,336728,"Print, Radio, Online"
+3148,197308,Social Media
+3149,151862,"Print, Outdoor"
+3150,321388,TV
+3151,363150,Online
+3152,467783,"Radio, Online"
+3153,133246,Outdoor
+3154,276313,"TV, Social Media, Print"
+3155,479831,Radio
+3156,459290,"Social Media, Outdoor, Online"
+3157,265052,"Print, Online, Outdoor"
+3158,298418,Print
+3159,462426,"TV, Outdoor"
+3160,64456,"TV, Radio"
+3161,489291,Social Media
+3162,489647,Social Media
+3163,474964,"Social Media, Outdoor, Radio"
+3164,484477,Social Media
+3165,186831,"Print, TV, Online"
+3166,66681,Outdoor
+3167,177956,"Print, Outdoor, Radio"
+3168,205549,Social Media
+3169,208609,"TV, Radio"
+3170,356206,"Radio, Print"
+3171,438628,"Outdoor, Radio, TV"
+3172,149894,"Social Media, Print, Online"
+3173,251277,TV
+3174,220330,"Outdoor, Print, Radio"
+3175,394071,Online
+3176,193053,Print
+3177,75297,"TV, Online, Radio"
+3178,200212,TV
+3179,209287,"Social Media, Print, Radio"
+3180,420074,Radio
+3181,296552,"Radio, Online"
+3182,285582,Online
+3183,319473,Online
+3184,302654,Radio
+3185,356743,Print
+3186,456753,"Social Media, Radio, Print"
+3187,444359,Social Media
+3188,272894,"Outdoor, Radio, TV"
+3189,431053,TV
+3190,438363,"Radio, Outdoor"
+3191,405297,"Outdoor, Print"
+3192,68924,"Online, TV"
+3193,347924,"Online, Radio, Outdoor"
+3194,190946,"TV, Radio, Outdoor"
+3195,442976,Print
+3196,177783,Radio
+3197,463382,"Outdoor, TV"
+3198,326804,Online
+3199,340275,"TV, Outdoor, Radio"
+3200,449481,"Radio, Online"
+3201,493431,"Radio, Outdoor, Online"
+3202,189054,"Online, Print, Social Media"
+3203,89987,Print
+3204,375506,Print
+3205,81580,"Social Media, Outdoor"
+3206,290240,"Social Media, Print, TV"
+3207,205364,"Online, Social Media, Print"
+3208,225496,Radio
+3209,155968,"Print, Radio, Social Media"
+3210,364703,"Online, TV"
+3211,307356,"Online, TV"
+3212,478600,"Print, Outdoor"
+3213,209992,Print
+3214,227432,"TV, Print"
+3215,124254,Print
+3216,325248,Print
+3217,92729,"Outdoor, TV"
+3218,485675,"Social Media, Radio, Online"
+3219,459531,"Radio, Online"
+3220,364860,"TV, Print"
+3221,192780,"Online, Radio"
+3222,210268,"Outdoor, Online, Social Media"
+3223,89207,"Radio, Print, TV"
+3224,161162,Online
+3225,208860,"Print, Online"
+3226,251568,"Radio, Social Media"
+3227,258922,"Online, Outdoor, Radio"
+3228,448298,Radio
+3229,252419,"Print, Radio, Outdoor"
+3230,480842,Radio
+3231,87715,"Social Media, TV, Radio"
+3232,144940,Outdoor
+3233,224594,"TV, Online, Radio"
+3234,449670,Social Media
+3235,104996,"TV, Outdoor"
+3236,209779,TV
+3237,100478,"Print, TV"
+3238,398298,Outdoor
+3239,177110,"Print, TV, Social Media"
+3240,245472,"Outdoor, Online"
+3241,417845,Radio
+3242,125529,"Print, Outdoor, TV"
+3243,476224,"Print, Online"
+3244,227269,TV
+3245,198681,"Print, Online"
+3246,135841,Outdoor
+3247,260381,"Online, TV, Print"
+3248,491313,"Print, Social Media"
+3249,270943,"Online, Radio"
+3250,253461,Print
+3251,53432,Print
+3252,179452,Online
+3253,152559,Online
+3254,67539,"Outdoor, Social Media"
+3255,250714,Radio
+3256,111024,"Radio, Outdoor"
+3257,276341,"Radio, Outdoor, Online"
+3258,254590,"Online, Radio, Social Media"
+3259,150221,Radio
+3260,409254,"Online, Print, Radio"
+3261,467066,"Online, TV"
+3262,110327,"Online, Social Media, Print"
+3263,93817,Social Media
+3264,205159,"Outdoor, Social Media, Radio"
+3265,324698,"Social Media, TV"
+3266,334394,"Print, Outdoor"
+3267,331233,"Radio, TV, Print"
+3268,309071,"TV, Outdoor"
+3269,223602,Outdoor
+3270,401901,"TV, Online, Social Media"
+3271,478947,"TV, Radio, Outdoor"
+3272,315332,"Outdoor, Social Media, Online"
+3273,148743,"Outdoor, Online, Social Media"
+3274,302798,TV
+3275,389993,Online
+3276,423358,Print
+3277,373213,"Radio, Outdoor, Online"
+3278,450724,Print
+3279,478409,"Outdoor, Online"
+3280,271404,"Radio, Online, TV"
+3281,293436,Online
+3282,201881,Online
+3283,346500,"TV, Print"
+3284,318043,"Print, Outdoor"
+3285,130421,"Online, Print, Outdoor"
+3286,362460,"Online, Outdoor"
+3287,412259,"TV, Radio"
+3288,131470,Radio
+3289,123896,"Online, Radio"
+3290,337587,"Social Media, Outdoor"
+3291,102279,Online
+3292,414305,"Radio, Online, Social Media"
+3293,339336,Online
+3294,64582,"Radio, Online"
+3295,396684,"Social Media, Outdoor, Online"
+3296,279454,"TV, Radio, Outdoor"
+3297,273270,"Print, Radio, Outdoor"
+3298,190352,"Online, Radio"
+3299,177563,"Social Media, Outdoor, Radio"
+3300,275140,Social Media
+3301,51417,"TV, Print, Social Media"
+3302,407800,"Outdoor, Online, TV"
+3303,402805,"TV, Radio, Online"
+3304,381001,"Online, Radio"
+3305,321131,"TV, Social Media"
+3306,183010,"Online, Print"
+3307,346092,"Social Media, Print, Outdoor"
+3308,108116,TV
+3309,168528,Social Media
+3310,70338,Social Media
+3311,436763,"Social Media, Outdoor, Print"
+3312,422758,"Outdoor, Radio"
+3313,252883,Online
+3314,246921,"Print, Online"
+3315,466696,"Print, Social Media, TV"
+3316,353818,"Print, Social Media, Outdoor"
+3317,369189,Social Media
+3318,211664,"Outdoor, Radio"
+3319,181237,Radio
+3320,101467,"Print, Online, Radio"
+3321,82635,"Social Media, Print, Radio"
+3322,457485,"Radio, Outdoor"
+3323,457860,"TV, Radio, Social Media"
+3324,152158,"Print, TV, Outdoor"
+3325,66819,"Print, Radio"
+3326,205902,Online
+3327,478352,"Print, Outdoor, Online"
+3328,187276,"TV, Online, Social Media"
+3329,439357,"Print, Online, Outdoor"
+3330,417364,"Outdoor, Print"
+3331,474987,Online
+3332,273518,"Radio, Online, TV"
+3333,464880,"Outdoor, Print"
+3334,383822,"Print, Outdoor, TV"
+3335,440594,"Social Media, TV"
+3336,380006,"Print, Radio, Social Media"
+3337,257534,Outdoor
+3338,463580,"Print, Radio, TV"
+3339,410245,Radio
+3340,338517,Radio
+3341,267366,TV
+3342,92583,"Social Media, Radio"
+3343,416964,"Outdoor, Print, Radio"
+3344,237366,Print
+3345,211743,"Social Media, Outdoor"
+3346,153790,"Online, TV"
+3347,293733,"Social Media, Online, Outdoor"
+3348,423443,Social Media
+3349,180319,"Social Media, Print"
+3350,464297,"Social Media, Print"
+3351,228625,"Outdoor, Online, Social Media"
+3352,486237,Social Media
+3353,354483,"Online, Radio, Print"
+3354,215246,Outdoor
+3355,492634,"Print, TV"
+3356,317440,"Social Media, Outdoor, TV"
+3357,395890,Print
+3358,253306,Print
+3359,103681,"Social Media, Radio, TV"
+3360,483815,Outdoor
+3361,194777,"Print, Online"
+3362,463063,"Print, Online"
+3363,458401,Online
+3364,92750,Social Media
+3365,101616,"Radio, Social Media, Online"
+3366,325422,"Online, TV, Social Media"
+3367,66151,Outdoor
+3368,239523,Outdoor
+3369,287506,Social Media
+3370,138555,"Online, TV"
+3371,396577,"Outdoor, Social Media, TV"
+3372,244212,"Print, TV"
+3373,240415,"TV, Social Media"
+3374,155458,"TV, Online, Social Media"
+3375,449510,"Print, Online, Social Media"
+3376,55050,Print
+3377,53102,"Online, Radio"
+3378,497954,"TV, Outdoor"
+3379,59489,Online
+3380,119814,"Social Media, Online"
+3381,447315,Radio
+3382,327075,"Print, Outdoor"
+3383,331247,"Outdoor, Online, TV"
+3384,264077,Radio
+3385,117772,"Print, Social Media"
+3386,215205,"TV, Social Media, Online"
+3387,373062,"Print, Radio"
+3388,268413,"Radio, Outdoor, Social Media"
+3389,378413,"Print, Social Media, Online"
+3390,53264,"Print, Social Media, Outdoor"
+3391,345095,Radio
+3392,316827,Radio
+3393,488475,"Print, Radio, Social Media"
+3394,458158,TV
+3395,320147,"Radio, Outdoor, Social Media"
+3396,309290,Print
+3397,91657,Print
+3398,473480,"Radio, Outdoor, Online"
+3399,368103,"Social Media, Outdoor, Print"
+3400,275997,"Outdoor, Print"
+3401,435852,"Online, TV"
+3402,378815,"Social Media, Print, Online"
+3403,303606,"Outdoor, Online, Social Media"
+3404,292606,Social Media
+3405,466827,"Social Media, Outdoor"
+3406,409595,"Online, TV, Outdoor"
+3407,231388,Social Media
+3408,332973,"TV, Online"
+3409,138362,"Social Media, Outdoor, Radio"
+3410,469966,"TV, Social Media, Outdoor"
+3411,362863,TV
+3412,482012,"Online, Radio, Outdoor"
+3413,181383,"Radio, TV"
+3414,191830,"Print, TV"
+3415,424449,"Social Media, Outdoor, TV"
+3416,167824,Outdoor
+3417,210941,"TV, Online"
+3418,447936,"Outdoor, Print, Online"
+3419,282989,TV
+3420,185174,Online
+3421,234198,Social Media
+3422,370360,"Print, Radio"
+3423,121399,Radio
+3424,482972,TV
+3425,271814,"Online, Social Media, Outdoor"
+3426,394215,"Outdoor, Online"
+3427,365885,Radio
+3428,356332,"Online, Outdoor"
+3429,239022,Online
+3430,69056,Social Media
+3431,383651,"Online, Outdoor, Social Media"
+3432,479200,"Outdoor, Radio"
+3433,277263,Radio
+3434,479224,"TV, Outdoor, Online"
+3435,290705,"Print, Online, Social Media"
+3436,125316,Social Media
+3437,157759,"Social Media, Radio"
+3438,439123,"Outdoor, Online"
+3439,329688,"TV, Outdoor, Print"
+3440,236477,"Outdoor, TV, Online"
+3441,409724,"Social Media, Radio, Online"
+3442,338769,"TV, Print, Radio"
+3443,442528,"Online, Social Media"
+3444,486924,"Print, Online"
+3445,343057,Radio
+3446,486825,"Online, TV, Outdoor"
+3447,261673,Outdoor
+3448,427993,"Radio, Outdoor"
+3449,457900,Radio
+3450,70327,"Social Media, Radio"
+3451,439291,"Outdoor, TV, Radio"
+3452,233910,"Outdoor, Social Media"
+3453,229203,"Outdoor, Social Media, Online"
+3454,401724,"Print, Social Media"
+3455,160850,TV
+3456,64188,"Print, Radio, Online"
+3457,172020,Online
+3458,341798,"Radio, Outdoor, TV"
+3459,479043,TV
+3460,228075,Social Media
+3461,408894,"TV, Radio, Outdoor"
+3462,140242,"Radio, Outdoor"
+3463,433360,"Social Media, Online, Outdoor"
+3464,394445,Outdoor
+3465,251665,"Print, Outdoor"
+3466,452690,"Outdoor, TV, Radio"
+3467,67041,"Radio, Social Media"
+3468,403655,"Print, TV, Radio"
+3469,65841,Social Media
+3470,439248,"Online, Print, TV"
+3471,129551,"Social Media, TV, Online"
+3472,67227,"Online, TV"
+3473,188954,"Print, Online, Outdoor"
+3474,130432,"TV, Print, Social Media"
+3475,343322,"Radio, Social Media"
+3476,262563,"Social Media, Outdoor, Online"
+3477,108384,"Online, TV"
+3478,462262,"Online, TV, Social Media"
+3479,215507,"Outdoor, Social Media"
+3480,177279,TV
+3481,364125,"Radio, TV, Social Media"
+3482,227075,"Social Media, Radio, Print"
+3483,115477,"TV, Social Media, Outdoor"
+3484,312069,"Online, Print, Radio"
+3485,63663,"Print, Radio, Social Media"
+3486,332229,Social Media
+3487,440399,"Radio, Print, Outdoor"
+3488,167908,"Online, Outdoor"
+3489,433544,Social Media
+3490,160268,"TV, Outdoor"
+3491,141108,"Outdoor, Print, TV"
+3492,371923,"TV, Social Media, Print"
+3493,79479,Online
+3494,68286,"TV, Outdoor, Print"
+3495,255193,TV
+3496,65342,TV
+3497,273506,Social Media
+3498,342243,"Print, Social Media, Radio"
+3499,152695,"TV, Online"
+3500,454493,"TV, Online, Outdoor"
+3501,140125,"Social Media, Print, Online"
+3502,156873,"Outdoor, TV"
+3503,460877,Online
+3504,359394,"Outdoor, Online, TV"
+3505,287886,TV
+3506,198569,"Print, Radio"
+3507,396086,"Print, TV"
+3508,314753,Online
+3509,203867,"Outdoor, Radio"
+3510,421688,Social Media
+3511,407563,TV
+3512,473386,"Outdoor, Print"
+3513,497694,"Online, TV, Social Media"
+3514,55189,Print
+3515,194054,"Outdoor, Radio, Online"
+3516,136691,TV
+3517,146123,"Social Media, Print"
+3518,439167,"Print, Outdoor, Social Media"
+3519,488718,"Print, Radio"
+3520,473031,"Online, Print"
+3521,363412,"Outdoor, Online"
+3522,299731,Radio
+3523,337101,"TV, Outdoor"
+3524,435055,"Social Media, Radio"
+3525,53166,"Radio, Outdoor, Online"
+3526,242715,Radio
+3527,277957,Social Media
+3528,465558,"Outdoor, Social Media"
+3529,127434,Online
+3530,384960,"Social Media, Online, Outdoor"
+3531,465806,"Print, TV"
+3532,393807,"Outdoor, TV"
+3533,54630,"Online, Social Media"
+3534,346751,"Radio, Social Media"
+3535,144289,"TV, Social Media"
+3536,322307,"Print, Radio"
+3537,307023,"Social Media, Print"
+3538,480671,"TV, Print, Social Media"
+3539,135630,"Print, Outdoor"
+3540,72729,Online
+3541,325074,"Social Media, Radio, Online"
+3542,204771,"Radio, Outdoor, Social Media"
+3543,387597,Print
+3544,496947,TV
+3545,230614,Social Media
+3546,118332,"Social Media, TV, Outdoor"
+3547,299351,"TV, Social Media"
+3548,205779,"TV, Radio"
+3549,407606,"Radio, Social Media, Online"
+3550,290454,Outdoor
+3551,458683,"Print, TV"
+3552,427177,"Social Media, TV, Outdoor"
+3553,461353,"Radio, Social Media"
+3554,184574,"Print, Social Media, TV"
+3555,456244,Print
+3556,439893,"Outdoor, Social Media, TV"
+3557,332154,Radio
+3558,459698,"Print, Radio"
+3559,74407,"Print, Outdoor, Online"
+3560,403533,Social Media
+3561,115480,Radio
+3562,203408,"Social Media, Radio, Online"
+3563,378313,Online
+3564,144358,Social Media
+3565,154042,Online
+3566,145421,"Print, Online, Social Media"
+3567,255307,"Outdoor, TV, Radio"
+3568,86443,Social Media
+3569,448935,Online
+3570,378376,"Social Media, TV"
+3571,281080,"Social Media, Outdoor"
+3572,87895,"Social Media, TV"
+3573,105948,Radio
+3574,94310,"Outdoor, Radio, Print"
+3575,56637,"Outdoor, TV, Radio"
+3576,350191,"Social Media, Outdoor"
+3577,279567,"Radio, Online"
+3578,221929,Radio
+3579,206390,Radio
+3580,257624,Outdoor
+3581,263732,"TV, Online, Social Media"
+3582,112585,"Online, Social Media"
+3583,289191,"Outdoor, Radio, Online"
+3584,71612,Outdoor
+3585,472391,"Online, Radio, Outdoor"
+3586,371398,"Outdoor, Print"
+3587,54256,"Online, Social Media, TV"
+3588,179974,TV
+3589,492225,"TV, Print, Outdoor"
+3590,71806,"TV, Outdoor"
+3591,116026,Online
+3592,264702,Print
+3593,209052,"TV, Social Media"
+3594,493354,"Online, TV, Social Media"
+3595,292816,TV
+3596,473538,"Online, Radio"
+3597,219569,Social Media
+3598,172441,"Radio, Social Media"
+3599,179789,Radio
+3600,336469,Social Media
+3601,321806,"Social Media, Outdoor"
+3602,299121,"TV, Outdoor"
+3603,135082,Social Media
+3604,168551,"Social Media, TV, Outdoor"
+3605,180102,"Social Media, Online, Radio"
+3606,439806,Social Media
+3607,417800,"Radio, Outdoor, TV"
+3608,142262,Print
+3609,115892,"Social Media, Radio"
+3610,95963,"Social Media, Outdoor, Radio"
+3611,80437,"Print, Online"
+3612,493079,Radio
+3613,415082,"Outdoor, Online"
+3614,57618,"Outdoor, Social Media, TV"
+3615,52981,Social Media
+3616,360464,"Print, Online, Outdoor"
+3617,190073,Radio
+3618,94528,"Outdoor, Radio"
+3619,258807,"Online, Print, Radio"
+3620,58477,"TV, Online"
+3621,241196,"Print, Outdoor, Radio"
+3622,156910,"TV, Online, Radio"
+3623,169195,"Print, Online, Radio"
+3624,178804,"Outdoor, Radio, TV"
+3625,188466,TV
+3626,59019,"Online, Print"
+3627,306592,"Print, Outdoor"
+3628,296551,"Social Media, Radio, Print"
+3629,342863,Social Media
+3630,121962,"Radio, Print, Social Media"
+3631,497668,"Outdoor, Social Media, TV"
+3632,111121,"Online, Radio"
+3633,415200,"Online, Radio"
+3634,149162,"Online, Social Media"
+3635,247566,"Social Media, Outdoor, Radio"
+3636,195891,"Radio, Social Media, TV"
+3637,188469,Social Media
+3638,268931,"Radio, Outdoor, TV"
+3639,157833,"Radio, Print"
+3640,296085,TV
+3641,162807,TV
+3642,487813,"Outdoor, TV, Online"
+3643,157735,Radio
+3644,394080,Outdoor
+3645,261373,"TV, Social Media, Print"
+3646,67064,"TV, Print, Social Media"
+3647,118717,"Outdoor, Social Media"
+3648,467853,"Radio, Social Media"
+3649,419128,"TV, Print, Online"
+3650,114867,"Online, Social Media"
+3651,72973,"Print, Outdoor, Online"
+3652,118719,"Radio, Outdoor, TV"
+3653,312768,TV
+3654,335106,Radio
+3655,220511,"Print, Social Media"
+3656,176400,Radio
+3657,143110,"Radio, Online"
+3658,247492,Radio
+3659,60152,"Print, TV, Outdoor"
+3660,53918,"Online, TV"
+3661,408995,"Online, TV"
+3662,288661,"Social Media, Print"
+3663,401545,Online
+3664,101267,"TV, Print"
+3665,416899,"Radio, Print, Outdoor"
+3666,465232,"Radio, Social Media"
+3667,290018,Online
+3668,97447,"Social Media, Online"
+3669,105462,"Print, Outdoor, Online"
+3670,137382,"Print, Radio"
+3671,133367,Radio
+3672,475192,Outdoor
+3673,410133,"Online, Print"
+3674,193164,"Radio, Social Media, TV"
+3675,417460,"Social Media, Radio, Online"
+3676,397461,"TV, Radio, Social Media"
+3677,209869,"Online, Social Media, Print"
+3678,63493,Online
+3679,53935,"Outdoor, Social Media, Print"
+3680,196531,"Online, Radio, Outdoor"
+3681,70428,Online
+3682,104493,"Radio, TV, Outdoor"
+3683,164498,"Social Media, Print, Outdoor"
+3684,130560,"TV, Print"
+3685,115148,"TV, Print, Social Media"
+3686,167964,"Outdoor, Print, Online"
+3687,381601,Online
+3688,249996,"Radio, Online"
+3689,348440,"TV, Outdoor, Social Media"
+3690,467943,Print
+3691,50610,"Online, Print, Radio"
+3692,478062,"Print, TV, Social Media"
+3693,175613,Print
+3694,179379,"Print, Online"
+3695,333234,"TV, Outdoor, Radio"
+3696,212385,Online
+3697,86206,Online
+3698,370151,"Social Media, TV, Online"
+3699,132435,"Outdoor, Social Media, Radio"
+3700,468217,"Social Media, Print"
+3701,494539,"Social Media, Outdoor"
+3702,131551,"Print, TV"
+3703,389159,Social Media
+3704,496321,Radio
+3705,479888,TV
+3706,304212,"Online, Print, Social Media"
+3707,190412,Online
+3708,55249,Outdoor
+3709,454206,"TV, Social Media"
+3710,66018,Social Media
+3711,309390,"Social Media, Print, Outdoor"
+3712,133767,"TV, Outdoor, Social Media"
+3713,158892,"Radio, Social Media, TV"
+3714,60508,Radio
+3715,66608,"Print, Radio, Online"
+3716,207593,"Social Media, Online"
+3717,444902,"TV, Radio, Social Media"
+3718,304625,"Online, Outdoor, Print"
+3719,292238,"Print, Online, TV"
+3720,329136,TV
+3721,290900,"Online, Radio"
+3722,186910,"Outdoor, Social Media, TV"
+3723,445987,Radio
+3724,264021,Outdoor
+3725,388693,"Print, Radio"
+3726,460421,"Radio, Online, TV"
+3727,51677,"TV, Print"
+3728,265162,"Print, Online, Outdoor"
+3729,322077,Online
+3730,276077,"Social Media, TV"
+3731,456087,"Print, Radio"
+3732,473022,"Online, Outdoor, TV"
+3733,110430,Radio
+3734,186108,"Outdoor, Online, Radio"
+3735,168746,Social Media
+3736,273546,Print
+3737,221947,TV
+3738,211647,"Outdoor, Social Media"
+3739,290255,Print
+3740,270530,"Outdoor, Online, Radio"
+3741,259419,"Print, Radio"
+3742,100946,TV
+3743,292670,Outdoor
+3744,76532,Print
+3745,327357,"TV, Social Media, Outdoor"
+3746,330547,"Print, Radio, Online"
+3747,167266,"Radio, Social Media"
+3748,110891,"Social Media, Radio"
+3749,409224,"Online, Radio, Print"
+3750,396672,"Social Media, Online"
+3751,475703,"Radio, Online, TV"
+3752,250839,"TV, Print, Social Media"
+3753,191998,"Outdoor, Radio, Online"
+3754,186174,"Radio, Outdoor"
+3755,131083,Print
+3756,207380,"TV, Outdoor"
+3757,107509,Online
+3758,442416,"TV, Outdoor"
+3759,206096,"Social Media, Online"
+3760,296276,"Radio, Online"
+3761,79963,"Online, TV, Outdoor"
+3762,176330,"Radio, Outdoor"
+3763,150594,"Radio, TV"
+3764,449133,Online
+3765,131007,"TV, Online, Print"
+3766,407987,"Radio, TV"
+3767,177201,"TV, Outdoor"
+3768,145024,Print
+3769,54347,Social Media
+3770,181203,"Radio, TV"
+3771,81630,"Radio, Outdoor, Online"
+3772,212959,Radio
+3773,73807,"Social Media, Outdoor"
+3774,78902,"Social Media, Radio, Print"
+3775,209545,"Radio, Print"
+3776,251601,"Radio, Social Media, Outdoor"
+3777,199586,Radio
+3778,60663,Online
+3779,130142,"TV, Outdoor"
+3780,472572,TV
+3781,307280,Radio
+3782,434293,"Radio, Outdoor"
+3783,73098,Radio
+3784,53408,"Social Media, Online, Print"
+3785,401788,"Online, Print"
+3786,223016,TV
+3787,216115,TV
+3788,157198,"TV, Social Media, Radio"
+3789,122245,"Radio, TV"
+3790,422805,"Online, Social Media"
+3791,77633,"Print, Outdoor, Social Media"
+3792,274260,"Online, Social Media, Outdoor"
+3793,212195,"Online, Print, TV"
+3794,173938,"Print, TV, Social Media"
+3795,392335,Print
+3796,445529,"TV, Print"
+3797,137745,"Print, Radio"
+3798,84654,Online
+3799,218774,"Radio, Social Media, Online"
+3800,248059,Social Media
+3801,73910,TV
+3802,261516,"Outdoor, Radio"
+3803,478016,Outdoor
+3804,223533,"TV, Social Media, Outdoor"
+3805,455005,Radio
+3806,431859,"TV, Online, Radio"
+3807,246458,"Social Media, Print, TV"
+3808,367931,"TV, Outdoor, Online"
+3809,144077,"Online, Social Media, Outdoor"
+3810,110800,Outdoor
+3811,50953,Online
+3812,82996,"Social Media, Outdoor, Online"
+3813,332746,"Outdoor, Online, Social Media"
+3814,448433,"Print, TV, Online"
+3815,490028,TV
+3816,267111,"Online, Social Media, Outdoor"
+3817,113222,Online
+3818,50066,"Social Media, Radio, Print"
+3819,493200,"Online, Radio, TV"
+3820,418024,"TV, Radio"
+3821,285652,Radio
+3822,160519,Radio
+3823,282972,"Print, Radio, Social Media"
+3824,427346,"Outdoor, Social Media"
+3825,300194,Outdoor
+3826,497979,"Social Media, Print"
+3827,98027,"TV, Print"
+3828,492137,Print
+3829,313090,Outdoor
+3830,305577,"Print, Radio"
+3831,211617,"Online, Radio"
+3832,68407,"Outdoor, Radio"
+3833,392200,Online
+3834,174140,"TV, Print"
+3835,207518,"Social Media, Print"
+3836,290167,"Outdoor, Print"
+3837,75633,"Online, Print, Social Media"
+3838,54856,"TV, Outdoor, Social Media"
+3839,97223,TV
+3840,380907,"Print, Online, Radio"
+3841,135744,Outdoor
+3842,281424,"Outdoor, Online, TV"
+3843,133656,"Radio, TV"
+3844,178133,"Radio, TV"
+3845,67064,Social Media
+3846,214908,Radio
+3847,111363,"Social Media, TV, Outdoor"
+3848,301155,Print
+3849,426292,TV
+3850,445267,"Online, Outdoor, TV"
+3851,470015,Online
+3852,105753,Social Media
+3853,282404,Online
+3854,101642,"Social Media, Print"
+3855,187907,Online
+3856,154096,"Radio, Social Media"
+3857,55604,"Social Media, Online, Outdoor"
+3858,469323,Online
+3859,401767,Outdoor
+3860,283546,TV
+3861,205193,"Print, Online"
+3862,235218,"Print, Outdoor"
+3863,142336,"Outdoor, TV"
+3864,485690,"Print, Radio"
+3865,178466,"Radio, Online, Social Media"
+3866,83617,Online
+3867,304004,"TV, Print, Radio"
+3868,386955,"Outdoor, Online, Radio"
+3869,487124,Online
+3870,329677,"Print, Online"
+3871,132983,"TV, Outdoor, Print"
+3872,225994,"Social Media, Outdoor, Print"
+3873,192495,"TV, Social Media, Radio"
+3874,58789,Print
+3875,226479,TV
+3876,409829,Social Media
+3877,232394,"Social Media, TV, Print"
+3878,433301,"Social Media, TV, Outdoor"
+3879,384316,"Print, Online, TV"
+3880,373709,"Radio, Print"
+3881,221472,"Online, Social Media, Outdoor"
+3882,74010,"Outdoor, Social Media, Online"
+3883,447097,Online
+3884,337229,"TV, Radio, Print"
+3885,90734,"Outdoor, Online, Social Media"
+3886,86703,"Radio, TV, Online"
+3887,326424,"Outdoor, Radio"
+3888,239995,TV
+3889,135823,"Social Media, Online"
+3890,157744,"TV, Radio, Social Media"
+3891,223580,Outdoor
+3892,387594,TV
+3893,138637,"Outdoor, Print"
+3894,366031,"Outdoor, Online"
+3895,130568,Radio
+3896,393680,Radio
+3897,455114,Outdoor
+3898,249254,"TV, Outdoor, Print"
+3899,338596,"Social Media, Radio, Online"
+3900,169859,Outdoor
+3901,467437,Online
+3902,241644,Online
+3903,273514,"Social Media, TV, Radio"
+3904,167661,Online
+3905,137306,"Online, Radio, Outdoor"
+3906,152342,"Print, Radio"
+3907,264123,Print
+3908,111924,"Outdoor, TV"
+3909,224546,"Print, Outdoor"
+3910,221916,Social Media
+3911,244918,"Social Media, TV"
+3912,239900,"Online, Radio"
+3913,173489,"Print, TV, Outdoor"
+3914,215062,"Outdoor, Radio"
+3915,456064,Print
+3916,66863,Social Media
+3917,89503,"Print, Online"
+3918,467980,"Social Media, Outdoor"
+3919,171950,TV
+3920,186879,"Online, Radio, Outdoor"
+3921,204837,"Print, Online"
+3922,96520,"TV, Print, Radio"
+3923,396042,"Print, Outdoor, TV"
+3924,123426,Online
+3925,365790,"TV, Online"
+3926,154628,"Print, Radio"
+3927,356949,"Social Media, TV, Outdoor"
+3928,487343,Social Media
+3929,279364,Outdoor
+3930,193511,"Outdoor, Social Media, Print"
+3931,220089,Social Media
+3932,222766,"Radio, Print"
+3933,106400,Radio
+3934,418458,Radio
+3935,220654,"Social Media, TV, Outdoor"
+3936,373052,"Radio, Online"
+3937,171671,"TV, Radio, Print"
+3938,210381,"Outdoor, Print"
+3939,449107,"Radio, Social Media, Online"
+3940,241229,Social Media
+3941,208933,Outdoor
+3942,191147,Outdoor
+3943,451821,"Print, TV"
+3944,240278,Social Media
+3945,444711,"Print, Social Media"
+3946,185130,"Online, Social Media"
+3947,490237,TV
+3948,276260,"TV, Radio"
+3949,124080,"Outdoor, TV, Print"
+3950,240832,"Outdoor, Radio, Online"
+3951,356795,Social Media
+3952,449524,"Social Media, TV"
+3953,107189,"Online, TV, Print"
+3954,301300,Outdoor
+3955,289691,"Online, Outdoor, Radio"
+3956,197766,"Radio, Print, Outdoor"
+3957,233861,"Online, Print, Outdoor"
+3958,187073,Social Media
+3959,186079,"Outdoor, Social Media"
+3960,290018,TV
+3961,77023,"Radio, Social Media, Online"
+3962,266595,"Print, Online, TV"
+3963,195936,"Online, TV, Radio"
+3964,258970,"Outdoor, Online"
+3965,488743,"Radio, Outdoor, Print"
+3966,383567,"Outdoor, TV"
+3967,437666,"Outdoor, Social Media"
+3968,217166,Outdoor
+3969,367623,TV
+3970,258417,"Online, Print, Social Media"
+3971,318695,Print
+3972,247089,"Social Media, Print"
+3973,109269,"Outdoor, Print, Radio"
+3974,476305,TV
+3975,367864,Outdoor
+3976,320273,"Print, Online, Radio"
+3977,302354,"Print, Radio"
+3978,375299,"Online, Print, Social Media"
+3979,289646,"Online, TV, Radio"
+3980,147162,"TV, Radio, Outdoor"
+3981,53290,"Online, Print, Social Media"
+3982,222388,Radio
+3983,303625,Outdoor
+3984,217289,"Outdoor, Print"
+3985,289991,"Social Media, Outdoor, Radio"
+3986,349195,"Outdoor, TV, Print"
+3987,414436,Radio
+3988,184389,"Outdoor, Social Media, TV"
+3989,334931,Print
+3990,451299,"Print, Online"
+3991,118594,"Outdoor, Radio"
+3992,360723,Outdoor
+3993,461505,"TV, Social Media"
+3994,352103,"Radio, Online, Social Media"
+3995,91665,"Outdoor, Print, Radio"
+3996,177411,"Print, Outdoor"
+3997,135266,"Outdoor, Print, Social Media"
+3998,460562,Radio
+3999,496421,"Online, Radio, Print"
+4000,244778,"Print, TV"
+4001,453288,"Outdoor, Social Media, TV"
+4002,110782,"TV, Radio"
+4003,51547,Online
+4004,305765,Print
+4005,494323,Online
+4006,303059,"Outdoor, TV"
+4007,491230,Outdoor
+4008,252837,"Radio, Outdoor, Online"
+4009,221919,TV
+4010,468310,"Radio, Outdoor, Social Media"
+4011,71964,"Print, TV"
+4012,197055,Print
+4013,249574,Radio
+4014,89121,Print
+4015,282693,"Radio, TV"
+4016,218886,"TV, Radio"
+4017,246641,Print
+4018,358849,"Radio, Social Media, TV"
+4019,81658,Outdoor
+4020,482807,"Print, Radio, Outdoor"
+4021,285096,Social Media
+4022,427465,TV
+4023,193323,"Print, TV"
+4024,191083,"Print, TV"
+4025,456716,"Print, Online"
+4026,102864,TV
+4027,96700,"Print, Social Media, Online"
+4028,363688,"Online, Radio, Social Media"
+4029,259712,Print
+4030,372792,Radio
+4031,244806,"TV, Print, Outdoor"
+4032,145284,TV
+4033,371860,"Print, Online, Social Media"
+4034,67575,"TV, Online"
+4035,251583,Radio
+4036,256393,"Social Media, Radio, Outdoor"
+4037,85068,"Social Media, Online"
+4038,158734,Radio
+4039,166987,"Online, Print"
+4040,451846,"Online, Print, Social Media"
+4041,280688,"Outdoor, Social Media, Radio"
+4042,351844,Outdoor
+4043,74709,Radio
+4044,96566,"Radio, Print"
+4045,303517,"TV, Outdoor, Radio"
+4046,425802,"Online, TV, Radio"
+4047,73841,Social Media
+4048,492563,"Radio, TV, Online"
+4049,448449,"TV, Online, Print"
+4050,442916,Radio
+4051,53903,"Social Media, Radio"
+4052,232877,Social Media
+4053,408094,"Online, Social Media, TV"
+4054,391372,"Outdoor, Print"
+4055,205538,"Online, Radio"
+4056,444938,"Outdoor, Online, Print"
+4057,336227,Outdoor
+4058,497278,"Social Media, Print, Online"
+4059,200626,Print
+4060,339596,Print
+4061,241021,"TV, Outdoor"
+4062,341400,Online
+4063,166896,Radio
+4064,222114,Social Media
+4065,469503,"Social Media, TV, Online"
+4066,180077,"Outdoor, Social Media, Print"
+4067,329317,TV
+4068,463365,"Online, Outdoor, Radio"
+4069,266459,"Radio, TV, Print"
+4070,362792,"Radio, Online"
+4071,386622,Social Media
+4072,294849,"Outdoor, TV, Online"
+4073,220509,"Radio, Online, TV"
+4074,413792,"Online, Radio"
+4075,299353,Social Media
+4076,102262,"TV, Outdoor, Print"
+4077,443545,Online
+4078,183850,TV
+4079,272049,"Online, Social Media, Radio"
+4080,146213,Social Media
+4081,271697,"Online, Outdoor, Print"
+4082,108164,"Print, Outdoor, TV"
+4083,304818,Radio
+4084,285251,"Print, Radio, Outdoor"
+4085,418286,Print
+4086,301955,"TV, Print, Radio"
+4087,233935,"Print, Social Media"
+4088,259851,Radio
+4089,322130,"Print, Online"
+4090,427810,"Online, Outdoor, TV"
+4091,68779,"Print, Outdoor"
+4092,466968,"Print, Social Media, Online"
+4093,87747,"Outdoor, Social Media, Radio"
+4094,205115,"Social Media, Outdoor"
+4095,201281,"TV, Social Media"
+4096,289287,"TV, Print, Online"
+4097,209598,Social Media
+4098,148672,"Print, Online, TV"
+4099,159541,"Online, Radio"
+4100,493383,"Radio, Online, Print"
+4101,426489,"Radio, TV, Social Media"
+4102,412463,"Social Media, TV, Outdoor"
+4103,238672,"Radio, TV, Online"
+4104,471282,"Outdoor, Social Media"
+4105,78222,"Print, Outdoor"
+4106,106391,Social Media
+4107,161025,Print
+4108,338763,"Outdoor, Online, TV"
+4109,125085,Print
+4110,201200,"Print, Online, Social Media"
+4111,129748,"TV, Online"
+4112,409849,"Print, Online"
+4113,459133,"Social Media, Radio, Outdoor"
+4114,432685,"Outdoor, Radio, TV"
+4115,62294,"TV, Social Media"
+4116,192742,Radio
+4117,336912,"Social Media, Online, Outdoor"
+4118,50312,"Print, Outdoor"
+4119,385862,Outdoor
+4120,440952,"Outdoor, Print"
+4121,84911,"Online, Outdoor"
+4122,244050,"Print, Social Media"
+4123,186270,"TV, Social Media"
+4124,476123,"TV, Online"
+4125,196131,TV
+4126,311421,"Social Media, Radio"
+4127,54077,TV
+4128,426471,"Radio, Outdoor, Social Media"
+4129,63179,"Outdoor, Print"
+4130,306154,Social Media
+4131,383321,"TV, Outdoor, Radio"
+4132,228481,"Radio, Print, TV"
+4133,64250,Social Media
+4134,455324,"Online, Outdoor"
+4135,214733,"TV, Social Media, Radio"
+4136,259772,"TV, Radio"
+4137,415886,"TV, Radio"
+4138,347301,Online
+4139,196416,Print
+4140,293288,Outdoor
+4141,92284,"Radio, TV"
+4142,266526,Outdoor
+4143,242726,"Online, Radio"
+4144,391976,"Outdoor, Print, Social Media"
+4145,409999,Print
+4146,442514,Online
+4147,435757,"Radio, Online, TV"
+4148,499256,"TV, Radio, Online"
+4149,368355,Online
+4150,329328,Radio
+4151,116229,TV
+4152,260672,"Print, Online, Social Media"
+4153,243705,"Outdoor, Print"
+4154,380570,TV
+4155,173605,"Outdoor, Online, Social Media"
+4156,441881,TV
+4157,148917,"Print, Radio"
+4158,267609,Print
+4159,474956,Radio
+4160,204791,"Social Media, Radio, TV"
+4161,377581,"TV, Outdoor"
+4162,201029,"Radio, Outdoor"
+4163,281479,"Social Media, Print"
+4164,399036,"TV, Social Media"
+4165,416559,"TV, Print, Social Media"
+4166,429121,Online
+4167,94797,"TV, Outdoor, Social Media"
+4168,434697,"TV, Radio"
+4169,115870,"Radio, Print, TV"
+4170,172766,Print
+4171,486991,"Online, Radio, Social Media"
+4172,114899,Print
+4173,162988,"Social Media, Online, Print"
+4174,201102,Outdoor
+4175,412788,"Social Media, Online, Outdoor"
+4176,194396,Outdoor
+4177,421690,"Radio, Online"
+4178,142517,Outdoor
+4179,320458,"Social Media, Online, Radio"
+4180,481878,Outdoor
+4181,68460,TV
+4182,458852,"Social Media, Print"
+4183,124178,"TV, Social Media, Online"
+4184,311435,"TV, Outdoor, Social Media"
+4185,71962,TV
+4186,307084,"Radio, Print"
+4187,326754,"Social Media, Radio"
+4188,413450,"Social Media, Outdoor"
+4189,237241,"Social Media, Radio"
+4190,462087,"Online, Outdoor, TV"
+4191,216681,"TV, Online, Outdoor"
+4192,91215,"Outdoor, Radio, Online"
+4193,224041,TV
+4194,187820,"Radio, Social Media, Online"
+4195,250895,"TV, Print, Social Media"
+4196,139808,"Radio, Social Media, Print"
+4197,216654,"Outdoor, Radio"
+4198,448809,"Print, Social Media"
+4199,343605,"Online, Print, TV"
+4200,139154,"Social Media, Outdoor"
+4201,73794,"TV, Online, Print"
+4202,147496,"Social Media, Radio"
+4203,234125,"Print, Outdoor"
+4204,215209,"Print, TV"
+4205,431819,"Radio, Print, Online"
+4206,313688,"Online, Outdoor, TV"
+4207,429120,"Radio, TV, Outdoor"
+4208,499495,Outdoor
+4209,180654,"Radio, TV, Online"
+4210,264855,"Social Media, Print, TV"
+4211,367499,"Outdoor, Print"
+4212,280289,Outdoor
+4213,197070,Radio
+4214,417293,"Outdoor, TV, Print"
+4215,451593,"Print, Online"
+4216,175205,"TV, Radio, Outdoor"
+4217,176656,"TV, Social Media, Radio"
+4218,305351,TV
+4219,417375,"Online, Outdoor, Social Media"
+4220,283966,"TV, Outdoor"
+4221,77022,Radio
+4222,182752,TV
+4223,276282,"Social Media, Outdoor, TV"
+4224,381508,Social Media
+4225,398726,"Outdoor, TV, Print"
+4226,388538,"Online, Print, Outdoor"
+4227,92670,"Outdoor, TV, Print"
+4228,327200,TV
+4229,241445,"Print, Social Media, TV"
+4230,191086,"Radio, Online"
+4231,422424,"TV, Print"
+4232,211269,"TV, Online"
+4233,132132,"Radio, Social Media, TV"
+4234,363082,Online
+4235,110979,Social Media
+4236,182247,"Radio, Outdoor"
+4237,250002,Social Media
+4238,113753,"TV, Online, Radio"
+4239,179297,"Social Media, Radio, Outdoor"
+4240,338725,"Online, Print"
+4241,300833,"Outdoor, Print"
+4242,429926,"Outdoor, Online"
+4243,113401,"Social Media, Online, Radio"
+4244,438738,"Outdoor, Social Media"
+4245,84029,"Online, Social Media, Print"
+4246,384539,Social Media
+4247,143103,"Radio, Online"
+4248,456393,"TV, Outdoor, Print"
+4249,68702,"Radio, Online, TV"
+4250,311109,"Social Media, Print, Outdoor"
+4251,55771,"Outdoor, Online"
+4252,381218,Online
+4253,65183,Social Media
+4254,377220,"Outdoor, Print"
+4255,413836,"Outdoor, Print, Social Media"
+4256,452987,Radio
+4257,211738,"Outdoor, Print"
+4258,294136,"Online, TV"
+4259,380088,"Radio, Outdoor"
+4260,419330,"Radio, Online, TV"
+4261,402280,Online
+4262,431511,"Outdoor, Print"
+4263,453940,"Radio, Print, Outdoor"
+4264,342643,"Radio, Print"
+4265,128290,"Online, Outdoor, Print"
+4266,425066,"Print, Online"
+4267,258479,"Online, Print, Social Media"
+4268,72790,"Print, Outdoor"
+4269,331737,Radio
+4270,377362,Social Media
+4271,256036,"Print, Outdoor, Radio"
+4272,278001,"Radio, Outdoor, Online"
+4273,297490,"Radio, Outdoor, Online"
+4274,163625,"Social Media, Print, Outdoor"
+4275,218293,Outdoor
+4276,413099,"Social Media, TV, Print"
+4277,63460,Radio
+4278,300604,Social Media
+4279,64302,Print
+4280,140737,TV
+4281,217802,"TV, Print"
+4282,133897,"TV, Print"
+4283,431831,Print
+4284,441592,"Radio, Outdoor, TV"
+4285,118855,"Online, TV, Radio"
+4286,451551,"Social Media, Print"
+4287,153496,Outdoor
+4288,55461,"Online, Social Media, Print"
+4289,381578,"TV, Radio"
+4290,283206,"Radio, Social Media, Outdoor"
+4291,274276,"Print, Online, Social Media"
+4292,51216,"Online, Social Media"
+4293,490342,Social Media
+4294,424657,Print
+4295,485348,"Outdoor, Online, Social Media"
+4296,159653,Outdoor
+4297,321654,"Social Media, Outdoor"
+4298,386034,Radio
+4299,411501,"Outdoor, Radio"
+4300,401779,Outdoor
+4301,307547,Outdoor
+4302,64220,"TV, Radio"
+4303,497290,"Social Media, Print, TV"
+4304,101693,TV
+4305,131370,"Social Media, Online"
+4306,420996,"Radio, Social Media"
+4307,95259,Print
+4308,146009,"Social Media, Radio, Online"
+4309,59136,"Print, TV, Radio"
+4310,120502,"TV, Social Media"
+4311,346532,"Online, Social Media"
+4312,212241,"Outdoor, TV"
+4313,110810,Outdoor
+4314,168799,"Online, Radio, Social Media"
+4315,389155,Online
+4316,300581,"Print, Radio"
+4317,264220,"Print, Online, Outdoor"
+4318,70996,Radio
+4319,280277,Online
+4320,266688,Print
+4321,249291,"Online, Social Media"
+4322,269372,"Outdoor, Social Media, Online"
+4323,83433,Print
+4324,469855,Social Media
+4325,187760,"Radio, TV"
+4326,343632,"TV, Social Media, Outdoor"
+4327,211544,"Online, Social Media, Radio"
+4328,197571,"Radio, Online, Print"
+4329,376249,"TV, Social Media"
+4330,238448,"TV, Print"
+4331,327143,Social Media
+4332,173401,"Print, Outdoor, TV"
+4333,169459,"Print, TV"
+4334,139578,Print
+4335,185411,"Outdoor, Online, Social Media"
+4336,79206,"Online, Radio, TV"
+4337,85011,"Social Media, Online, TV"
+4338,433809,Radio
+4339,175941,"TV, Print, Social Media"
+4340,292250,Radio
+4341,273393,"Social Media, Outdoor, Print"
+4342,335386,"TV, Outdoor"
+4343,341574,TV
+4344,215053,"TV, Radio"
+4345,110044,Radio
+4346,129836,Social Media
+4347,211696,Social Media
+4348,302049,"Radio, Outdoor"
+4349,326411,"Online, Outdoor, Print"
+4350,469560,Radio
+4351,187349,"Radio, Online, Outdoor"
+4352,99183,Print
+4353,291946,"Print, Social Media, Radio"
+4354,79969,Social Media
+4355,124529,"TV, Print, Radio"
+4356,299361,"Print, TV, Online"
+4357,466012,"Print, Radio"
+4358,137997,Print
+4359,213124,Online
+4360,249285,"Online, Social Media, Print"
+4361,479075,"Outdoor, TV"
+4362,381027,"TV, Print"
+4363,199468,TV
+4364,172115,Social Media
+4365,283327,Radio
+4366,221620,"Print, Social Media"
+4367,327559,Radio
+4368,290640,"Social Media, Radio"
+4369,65194,TV
+4370,83514,Outdoor
+4371,110322,Online
+4372,342837,"Social Media, TV"
+4373,489763,"Radio, Print, Social Media"
+4374,253679,"Outdoor, Radio, Print"
+4375,117228,Outdoor
+4376,324520,Online
+4377,331434,TV
+4378,390090,"Online, Print, Radio"
+4379,369423,Online
+4380,359529,"Outdoor, Online"
+4381,376178,"Online, Social Media, Print"
+4382,418651,Outdoor
+4383,452956,Social Media
+4384,51533,"TV, Social Media, Outdoor"
+4385,349799,"Social Media, Print"
+4386,473546,"Radio, TV, Outdoor"
+4387,391042,"Radio, Social Media, Online"
+4388,86616,"TV, Social Media"
+4389,381342,TV
+4390,163668,"TV, Radio, Print"
+4391,132825,"TV, Radio, Outdoor"
+4392,141440,Print
+4393,487461,Outdoor
+4394,346601,Social Media
+4395,490035,"Radio, TV, Outdoor"
+4396,431238,Print
+4397,466203,Print
+4398,299722,"TV, Print, Radio"
+4399,206933,"Radio, TV"
+4400,382340,Online
+4401,58130,Outdoor
+4402,339687,"Outdoor, Online, Radio"
+4403,480418,Online
+4404,430639,"Social Media, Radio, Print"
+4405,135259,Social Media
+4406,107619,"Radio, Social Media"
+4407,421916,Print
+4408,74026,Social Media
+4409,497888,"Outdoor, Radio"
+4410,260330,Social Media
+4411,467417,"Social Media, TV"
+4412,415075,"Radio, Outdoor"
+4413,363817,Outdoor
+4414,142591,"Print, Social Media"
+4415,88544,"TV, Social Media, Online"
+4416,345050,Print
+4417,135383,"Online, Social Media, Radio"
+4418,422921,"Print, Outdoor"
+4419,80191,"TV, Print, Social Media"
+4420,285734,Outdoor
+4421,239922,"Outdoor, Print"
+4422,466189,Online
+4423,454327,"TV, Radio, Online"
+4424,374135,"Online, Social Media"
+4425,389893,"Outdoor, Social Media"
+4426,367939,Radio
+4427,353660,Social Media
+4428,498625,TV
+4429,381230,"Social Media, TV, Online"
+4430,475512,"TV, Radio"
+4431,246752,"Online, Social Media, Radio"
+4432,499156,"Outdoor, Online"
+4433,326509,Social Media
+4434,457218,"Print, Outdoor"
+4435,90916,"Print, Online, Social Media"
+4436,324747,"Social Media, Print, Radio"
+4437,496759,Print
+4438,79953,"Online, Print, Social Media"
+4439,476172,"Social Media, Online, TV"
+4440,115655,Outdoor
+4441,498254,Print
+4442,180023,Outdoor
+4443,407140,"Radio, Social Media, Online"
+4444,62470,"Online, Outdoor"
+4445,179058,Outdoor
+4446,321439,Outdoor
+4447,152264,"TV, Outdoor, Print"
+4448,392336,"Social Media, Online, Outdoor"
+4449,354048,Outdoor
+4450,495897,TV
+4451,312945,"Outdoor, Online"
+4452,395653,"Outdoor, Online"
+4453,83536,Radio
+4454,69347,"Social Media, Print, TV"
+4455,311741,"Online, Social Media, TV"
+4456,493408,Social Media
+4457,170956,Outdoor
+4458,50771,"Online, Social Media, Radio"
+4459,203412,Online
+4460,382588,"Online, Outdoor, Print"
+4461,411022,"TV, Online"
+4462,401481,"Print, TV, Social Media"
+4463,86416,"TV, Outdoor, Radio"
+4464,396873,Print
+4465,86744,Radio
+4466,494224,"Social Media, Outdoor, Online"
+4467,216717,"Radio, Print"
+4468,362070,"Print, Online"
+4469,268033,Radio
+4470,158291,Print
+4471,324885,"Social Media, Print"
+4472,57165,"Print, Social Media, Online"
+4473,277320,"Online, Social Media"
+4474,67568,"Online, Print, TV"
+4475,305511,"Outdoor, Online, TV"
+4476,255781,"Social Media, Radio"
+4477,452627,Social Media
+4478,484701,"Outdoor, Print"
+4479,342995,"Print, Online"
+4480,133334,"Print, Radio"
+4481,285604,"Outdoor, Print"
+4482,50732,"Online, TV, Print"
+4483,395630,Outdoor
+4484,68524,"Outdoor, Print"
+4485,413406,"Outdoor, Print, Social Media"
+4486,169105,"Print, Outdoor, Social Media"
+4487,162514,"TV, Online, Radio"
+4488,90356,Outdoor
+4489,358594,"Print, Social Media"
+4490,214696,"Outdoor, Radio, Print"
+4491,90458,"Print, Outdoor"
+4492,194454,Outdoor
+4493,464950,"Radio, TV"
+4494,65725,Print
+4495,351074,"Radio, TV"
+4496,275453,Online
+4497,318940,TV
+4498,226240,"TV, Social Media"
+4499,266694,"Social Media, Radio, Outdoor"
+4500,391684,Radio
+4501,267430,"Print, Online, Social Media"
+4502,219330,TV
+4503,174089,"Online, Outdoor"
+4504,252725,"Online, Outdoor"
+4505,309074,"Social Media, Radio, Print"
+4506,218517,"Social Media, Print"
+4507,455444,"TV, Social Media, Print"
+4508,498175,"Print, Online, Social Media"
+4509,141853,"TV, Outdoor, Radio"
+4510,339919,"Print, Online"
+4511,142768,"Print, Online, Outdoor"
+4512,293473,"Social Media, Outdoor, TV"
+4513,226982,"Social Media, Print"
+4514,160436,"Outdoor, Online, Radio"
+4515,203935,TV
+4516,105503,"Online, Print, Radio"
+4517,85770,"Social Media, Print"
+4518,252557,Outdoor
+4519,416867,Social Media
+4520,357305,TV
+4521,317900,"Outdoor, Radio, Social Media"
+4522,239227,"Social Media, Print"
+4523,260848,"Radio, Outdoor, Social Media"
+4524,59673,"Radio, Social Media, Print"
+4525,473063,"Online, TV"
+4526,189888,"Print, Outdoor"
+4527,461505,"Online, Social Media, TV"
+4528,372313,"Radio, Print"
+4529,302774,Radio
+4530,250346,"TV, Online, Print"
+4531,195336,Radio
+4532,337237,"Online, Radio"
+4533,486602,"Print, TV, Outdoor"
+4534,411947,"Online, Print"
+4535,226008,"Online, Outdoor, Social Media"
+4536,266979,"Print, Online"
+4537,260805,Radio
+4538,166795,"Online, Radio, Print"
+4539,431280,"Outdoor, Online, Radio"
+4540,361775,TV
+4541,318890,"Online, Social Media, TV"
+4542,244986,"TV, Online"
+4543,157550,"Radio, Social Media, Print"
+4544,337912,"Online, Social Media"
+4545,156545,Social Media
+4546,53962,Outdoor
+4547,79987,"TV, Online, Radio"
+4548,362305,"Social Media, Online"
+4549,219897,"Online, Radio, Print"
+4550,142883,"Print, Outdoor, TV"
+4551,157040,"Radio, Print"
+4552,272511,TV
+4553,457451,Print
+4554,170958,Print
+4555,344954,Radio
+4556,421515,"TV, Online"
+4557,269908,Social Media
+4558,62165,"Outdoor, Radio"
+4559,408277,"Social Media, Outdoor, TV"
+4560,445715,"Online, TV"
+4561,63969,"Print, Outdoor, Radio"
+4562,102291,"Online, TV, Radio"
+4563,89164,"Outdoor, Social Media, Online"
+4564,149531,"Print, Social Media, Online"
+4565,273202,"Online, TV"
+4566,65004,Print
+4567,126064,"Radio, Online"
+4568,233263,"Radio, Social Media, Online"
+4569,334882,"Outdoor, Social Media"
+4570,459313,"Online, Outdoor"
+4571,423441,"Outdoor, TV, Radio"
+4572,74260,"Radio, Social Media"
+4573,485117,"Print, Online"
+4574,170161,"Radio, Online, TV"
+4575,213592,"Print, Outdoor, Online"
+4576,83532,"Outdoor, Online, Social Media"
+4577,471222,"Radio, Social Media, TV"
+4578,295662,"Outdoor, Print, Online"
+4579,282339,"TV, Print, Radio"
+4580,56839,"Radio, Outdoor"
+4581,51547,"Social Media, Print, Online"
+4582,356996,"Social Media, Print"
+4583,267026,"Outdoor, Online, Print"
+4584,278408,Print
+4585,342604,"Online, TV"
+4586,115674,TV
+4587,499256,TV
+4588,86346,Outdoor
+4589,170546,"TV, Social Media"
+4590,362232,"Outdoor, Social Media, Print"
+4591,282163,"Online, Social Media"
+4592,93458,Outdoor
+4593,398682,Social Media
+4594,486695,"Social Media, TV, Print"
+4595,262884,Online
+4596,163902,Social Media
+4597,98072,TV
+4598,142353,Print
+4599,190053,"Outdoor, Online, Print"
+4600,134585,TV
+4601,358016,"Outdoor, Print, Social Media"
+4602,60324,"Radio, Social Media"
+4603,234099,TV
+4604,218365,Online
+4605,445099,"Social Media, Outdoor"
+4606,172751,"Print, Social Media, Outdoor"
+4607,312082,"Print, Radio, TV"
+4608,52106,Social Media
+4609,462627,"Print, Radio, Outdoor"
+4610,336498,"Social Media, TV"
+4611,407134,"TV, Radio"
+4612,306208,"TV, Online"
+4613,416987,"Online, Print"
+4614,87975,"Social Media, Outdoor"
+4615,369722,Radio
+4616,116963,"Outdoor, Online, TV"
+4617,309418,"TV, Print"
+4618,493575,"Print, Radio, Social Media"
+4619,131230,Print
+4620,165276,TV
+4621,145090,"Radio, TV, Print"
+4622,235494,TV
+4623,269842,"Online, TV"
+4624,122025,TV
+4625,62523,"TV, Print, Outdoor"
+4626,203730,"Outdoor, Print, Online"
+4627,221912,Social Media
+4628,222284,"TV, Outdoor, Print"
+4629,349242,"Online, Social Media"
+4630,251935,Outdoor
+4631,98537,"Print, Social Media, Online"
+4632,469558,"Radio, TV"
+4633,365296,"TV, Print"
+4634,145786,"Outdoor, Radio"
+4635,470797,Social Media
+4636,496210,"Social Media, Online"
+4637,138840,Print
+4638,221234,"Radio, Outdoor"
+4639,81020,"TV, Online, Radio"
+4640,267105,TV
+4641,404464,"Outdoor, Print"
+4642,456807,"TV, Outdoor, Online"
+4643,295363,Online
+4644,196707,"Radio, Social Media"
+4645,308657,TV
+4646,101981,"Outdoor, TV, Print"
+4647,425880,"TV, Radio, Social Media"
+4648,284312,Outdoor
+4649,492094,"Outdoor, TV, Online"
+4650,230438,"TV, Social Media, Online"
+4651,344094,"Radio, Online"
+4652,202969,"Print, Radio, Social Media"
+4653,116445,Radio
+4654,389628,Social Media
+4655,352604,"Radio, Outdoor, Social Media"
+4656,401188,"Social Media, TV, Outdoor"
+4657,491051,Online
+4658,497034,"Radio, TV"
+4659,468048,Outdoor
+4660,452678,Online
+4661,185677,Social Media
+4662,260806,"Radio, Print, Social Media"
+4663,71058,Online
+4664,357891,Outdoor
+4665,295720,"TV, Outdoor"
+4666,368134,"Print, Social Media, TV"
+4667,356369,"Radio, TV, Outdoor"
+4668,172364,"Radio, Online, Print"
+4669,257478,"Social Media, Radio"
+4670,97290,Online
+4671,88033,Radio
+4672,257020,"Radio, Social Media"
+4673,300114,"Outdoor, Social Media"
+4674,193449,Social Media
+4675,77712,"Radio, Social Media"
+4676,347706,"TV, Social Media"
+4677,354823,"Outdoor, TV, Radio"
+4678,194324,"Online, Print"
+4679,50365,"Print, Radio, Outdoor"
+4680,336119,Social Media
+4681,81734,Outdoor
+4682,150541,"Outdoor, Online"
+4683,161534,"TV, Radio, Social Media"
+4684,168587,"TV, Social Media, Outdoor"
+4685,327500,Social Media
+4686,85629,"Online, TV"
+4687,340371,"Radio, Print, TV"
+4688,268159,"Social Media, Radio, Online"
+4689,206942,"Radio, Outdoor, Print"
+4690,321885,"Print, Radio, Social Media"
+4691,443065,Social Media
+4692,294782,"Radio, Outdoor, TV"
+4693,120254,Social Media
+4694,300994,Online
+4695,254148,"Outdoor, TV"
+4696,473257,"Print, Online, Radio"
+4697,317019,"Outdoor, Online, Radio"
+4698,65848,"TV, Online, Radio"
+4699,104327,Social Media
+4700,289584,"TV, Social Media, Outdoor"
+4701,407844,"Online, TV"
+4702,93023,"TV, Radio, Print"
+4703,304447,Outdoor
+4704,253679,Radio
+4705,213300,"Print, TV, Social Media"
+4706,86940,Online
+4707,445840,"Radio, TV"
+4708,393448,"TV, Online"
+4709,464400,"Social Media, Print"
+4710,125447,Radio
+4711,307604,Outdoor
+4712,58674,Radio
+4713,129962,"Online, TV"
+4714,405074,"Online, Print"
+4715,179126,"Outdoor, Social Media"
+4716,138762,"Online, TV"
+4717,294012,"TV, Online"
+4718,344961,"Radio, Social Media, Print"
+4719,324656,Social Media
+4720,94618,"Print, Outdoor, Social Media"
+4721,468679,"Radio, Online"
+4722,129738,"Print, TV"
+4723,466423,"Social Media, Print, Radio"
+4724,267677,"TV, Social Media, Outdoor"
+4725,96330,"TV, Radio"
+4726,116880,Outdoor
+4727,243868,Radio
+4728,499116,Online
+4729,448635,Print
+4730,491104,Radio
+4731,254674,TV
+4732,355892,"Radio, Print, TV"
+4733,283638,Outdoor
+4734,63307,"Online, Radio"
+4735,113827,Print
+4736,178410,"Print, Outdoor"
+4737,190903,"TV, Social Media, Outdoor"
+4738,362685,"Outdoor, Radio"
+4739,374348,Online
+4740,252732,Print
+4741,220552,"Radio, Social Media"
+4742,129690,Outdoor
+4743,68424,"TV, Radio"
+4744,313405,"Radio, Social Media, TV"
+4745,206605,"Radio, Online"
+4746,264530,Print
+4747,455378,"Print, TV, Radio"
+4748,350459,"TV, Radio"
+4749,400446,"Outdoor, Radio"
+4750,130957,"TV, Radio, Online"
+4751,50703,"Social Media, Outdoor"
+4752,110891,"Online, Outdoor"
+4753,395637,"Print, TV, Online"
+4754,249724,"Outdoor, Online, Print"
+4755,146259,"Social Media, Radio, Online"
+4756,482843,"Social Media, Radio"
+4757,269018,"Radio, Outdoor"
+4758,216026,"TV, Radio, Social Media"
+4759,489717,"TV, Online"
+4760,110113,Social Media
+4761,319798,TV
+4762,387055,Outdoor
+4763,473344,Print
+4764,425300,"Social Media, TV, Outdoor"
+4765,180234,TV
+4766,167180,"Outdoor, Print, Social Media"
+4767,93952,"Radio, Online, TV"
+4768,125339,"Print, Online"
+4769,378538,Radio
+4770,180162,"Online, Radio, Print"
+4771,248845,"TV, Online"
+4772,360645,Radio
+4773,349228,"Print, Outdoor, Radio"
+4774,406921,"Online, Print"
+4775,76241,"Online, Print"
+4776,307455,"Radio, Online, Print"
+4777,451486,"Online, Social Media, Print"
+4778,217906,Online
+4779,136167,"Social Media, Print"
+4780,80971,"TV, Outdoor"
+4781,472900,"Print, TV, Outdoor"
+4782,51709,"Outdoor, TV"
+4783,406403,Social Media
+4784,169016,Radio
+4785,159100,"Radio, Outdoor"
+4786,120893,"Online, Outdoor, TV"
+4787,137201,Outdoor
+4788,281324,"TV, Outdoor"
+4789,443974,Outdoor
+4790,215384,"TV, Online, Print"
+4791,385504,"Online, TV, Radio"
+4792,160994,"Social Media, Radio"
+4793,456853,"Radio, TV"
+4794,461267,"Social Media, TV"
+4795,98715,"Online, Social Media"
+4796,427468,Online
+4797,365852,Online
+4798,227228,"TV, Social Media"
+4799,425649,"Outdoor, Radio, Online"
+4800,456567,"Print, Radio"
+4801,273369,"Print, TV, Radio"
+4802,278958,TV
+4803,366925,"Print, Radio, TV"
+4804,159899,"Online, TV, Social Media"
+4805,84556,"Social Media, Outdoor, Print"
+4806,287907,"Online, Radio, Social Media"
+4807,194181,Social Media
+4808,105301,Radio
+4809,113057,"Online, Outdoor"
+4810,145855,"Outdoor, Radio, Online"
+4811,202004,"Social Media, Radio, TV"
+4812,246577,Radio
+4813,480456,"Outdoor, Print"
+4814,268355,"Print, Outdoor"
+4815,461032,Print
+4816,295813,"Print, Social Media, Outdoor"
+4817,121138,"TV, Outdoor"
+4818,429319,"TV, Outdoor"
+4819,57416,"Radio, Social Media, Outdoor"
+4820,303682,Outdoor
+4821,203816,"TV, Online"
+4822,247207,"Online, Social Media"
+4823,408856,"Social Media, Print, Outdoor"
+4824,52455,"Online, Social Media"
+4825,132049,"Print, Social Media, Radio"
+4826,415701,Print
+4827,295467,Social Media
+4828,166242,"Outdoor, Online, TV"
+4829,273992,"Print, Online"
+4830,231311,Radio
+4831,395915,Radio
+4832,390442,"Radio, Online, Print"
+4833,258402,"Print, TV, Social Media"
+4834,174155,"Outdoor, Radio"
+4835,55429,Radio
+4836,262659,"TV, Online"
+4837,316646,Radio
+4838,322455,TV
+4839,440590,"Outdoor, Social Media, Print"
+4840,260339,"Print, Radio, TV"
+4841,374199,Outdoor
+4842,107238,TV
+4843,393799,"Social Media, Online"
+4844,250319,Online
+4845,362467,"Radio, TV"
+4846,425819,"Online, Social Media, Outdoor"
+4847,164293,"Online, Print, Social Media"
+4848,349972,"Social Media, TV, Outdoor"
+4849,105462,"Social Media, Outdoor"
+4850,100237,"TV, Social Media, Outdoor"
+4851,177616,"Radio, Outdoor"
+4852,108918,"Social Media, Online"
+4853,253815,"TV, Online, Outdoor"
+4854,440419,"Online, Social Media, Outdoor"
+4855,83462,"Radio, Social Media"
+4856,213518,"TV, Radio, Outdoor"
+4857,143508,Print
+4858,256441,"Social Media, Online, Outdoor"
+4859,335425,"Print, TV, Social Media"
+4860,433827,"Radio, Online"
+4861,60589,"Radio, TV"
+4862,305681,Social Media
+4863,360446,"TV, Radio, Social Media"
+4864,110682,"Online, Radio, TV"
+4865,471920,Social Media
+4866,86427,"TV, Outdoor"
+4867,194089,"Print, Social Media, Outdoor"
+4868,157329,"Outdoor, Radio, Online"
+4869,80510,Outdoor
+4870,364994,"Print, Radio, Social Media"
+4871,280074,"Online, Outdoor"
+4872,242206,"Social Media, Outdoor, Online"
+4873,139750,"TV, Print, Radio"
+4874,249290,"Print, Outdoor, Radio"
+4875,455558,"Outdoor, Radio"
+4876,209841,Print
+4877,278941,Print
+4878,467903,"Print, Outdoor, TV"
+4879,361051,"Online, Print"
+4880,68836,"Print, Radio"
+4881,199566,Outdoor
+4882,489373,Outdoor
+4883,439331,"Print, Radio"
+4884,447209,"Outdoor, Social Media"
+4885,470321,"TV, Print"
+4886,335099,"Outdoor, Radio, Print"
+4887,401129,Online
+4888,344081,TV
+4889,287778,Social Media
+4890,283928,Radio
+4891,55837,"Social Media, TV"
+4892,154334,Print
+4893,63054,Outdoor
+4894,252388,TV
+4895,374597,Online
+4896,472200,"Radio, Outdoor"
+4897,56112,"Print, TV"
+4898,270812,TV
+4899,364932,"Online, Outdoor"
+4900,350240,"Online, TV, Social Media"
+4901,388798,"Print, Online, Outdoor"
+4902,430360,TV
+4903,461373,"Print, Outdoor"
+4904,131181,"Print, TV, Radio"
+4905,479803,Social Media
+4906,412636,"TV, Social Media"
+4907,454961,"Online, Outdoor"
+4908,204458,"Social Media, TV"
+4909,499358,"Online, TV, Social Media"
+4910,55489,"TV, Online, Social Media"
+4911,441812,"Social Media, Radio"
+4912,355523,"Social Media, Outdoor"
+4913,111999,"Print, TV, Radio"
+4914,424065,Outdoor
+4915,406965,"Social Media, Print"
+4916,292788,Print
+4917,335168,"Radio, TV, Outdoor"
+4918,107321,"Outdoor, Print, Online"
+4919,256137,"TV, Online"
+4920,67823,"TV, Print, Social Media"
+4921,309762,"Radio, Online"
+4922,253281,"Online, TV, Social Media"
+4923,88494,"Social Media, Online, TV"
+4924,235350,TV
+4925,247043,"TV, Online"
+4926,381918,"TV, Social Media, Online"
+4927,74054,"Outdoor, TV"
+4928,326269,Radio
+4929,280794,"TV, Radio, Online"
+4930,173711,"Social Media, Print"
+4931,384986,Print
+4932,303330,TV
+4933,284150,"Social Media, Print"
+4934,478558,TV
+4935,416565,"Radio, Outdoor, Online"
+4936,142893,Radio
+4937,224586,Social Media
+4938,348301,"Radio, Outdoor, Online"
+4939,297541,"Online, Radio"
+4940,243816,"Social Media, Radio"
+4941,491600,"Radio, TV, Outdoor"
+4942,124668,Social Media
+4943,202346,"Outdoor, Print, Online"
+4944,228309,Print
+4945,80761,"Print, TV"
+4946,260576,TV
+4947,286066,"Outdoor, Print"
+4948,169068,TV
+4949,482841,"Print, Social Media, Radio"
+4950,290898,"Radio, TV, Online"
+4951,311800,Online
+4952,452219,"Radio, Outdoor"
+4953,173409,"Radio, Social Media, Outdoor"
+4954,335386,Social Media
+4955,252158,"Radio, Outdoor"
+4956,217154,TV
+4957,219764,Radio
+4958,60814,"TV, Radio"
+4959,419505,Radio
+4960,313542,"Outdoor, Print, Online"
+4961,469698,Outdoor
+4962,430459,"Radio, Outdoor"
+4963,493200,Social Media
+4964,65232,"Print, Outdoor, TV"
+4965,341779,"Radio, Outdoor, Print"
+4966,479581,"Print, Outdoor"
+4967,395834,TV
+4968,192775,"Print, Social Media, Online"
+4969,100644,"Radio, Outdoor"
+4970,350720,"Online, TV, Radio"
+4971,346272,Online
+4972,181531,"Social Media, Print, Outdoor"
+4973,412549,"TV, Online"
+4974,334447,"Outdoor, Print, Social Media"
+4975,236629,Social Media
+4976,259604,"Radio, Social Media"
+4977,161473,"Print, Social Media, TV"
+4978,292378,Online
+4979,275926,"Social Media, Online"
+4980,474478,"Print, Social Media, TV"
+4981,279192,"Social Media, Radio, Online"
+4982,399872,"Radio, TV"
+4983,326394,"Online, TV, Radio"
+4984,151351,"Radio, TV"
+4985,72297,"Outdoor, Print"
+4986,365869,Social Media
+4987,411057,"TV, Social Media"
+4988,443704,"Print, Social Media"
+4989,357676,"Online, TV, Radio"
+4990,245425,Social Media
+4991,271651,Social Media
+4992,392158,"Print, Online"
+4993,130153,"Online, Social Media"
+4994,253718,"TV, Online"
+4995,74274,"TV, Outdoor, Radio"
+4996,97373,Radio
+4997,153857,Online
+4998,333520,"Outdoor, Online"
+4999,464044,Radio
+5000,214218,"Online, Outdoor"
